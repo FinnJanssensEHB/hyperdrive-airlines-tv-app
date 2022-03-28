@@ -1,0 +1,3563 @@
+[
+  {
+    "id": 2291523,
+    "url": "https://www.tvmaze.com/episodes/2291523/gigantosaurus-3x31-mystery-hunters",
+    "name": "Mystery Hunters",
+    "season": 3,
+    "number": 31,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "09:00",
+    "airstamp": "2022-03-28T13:00:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 40689,
+      "url": "https://www.tvmaze.com/shows/40689/gigantosaurus",
+      "name": "Gigantosaurus",
+      "type": "Animation",
+      "language": "English",
+      "genres": ["Adventure", "Children", "Fantasy"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2019-01-18",
+      "ended": null,
+      "officialSite": "https://disneynow.go.com/shows/gigantosaurus",
+      "schedule": { "time": "09:00", "days": ["Friday"] },
+      "rating": { "average": null },
+      "weight": 69,
+      "network": {
+        "id": 78,
+        "name": "Disney Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 357844, "imdb": "tt9636800" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/181/454793.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/181/454793.jpg"
+      },
+      "summary": "<p>Four little dinos and one BIG Gigantosaurus… learn to dare! Rocky, Bill, Tiny, and Mazu are four young dinosaurs growing up in the Cretaceous period. Life is always an adventure: new volcanoes are popping up all the time, long-necked brachiosauruses and enormous triceratopses roam free, meteor showers light up the night sky and… the big bad Gigantosaurus reigns over it all!</p><p>The mere mention of Gigantosaurus's name is enough to stir a range of conflicting emotions in the four young dinos: fear (Bill), fascination (Rocky), laughter (Tiny), and scientific interest (Mazu). Through the adventures of the young dino heroes, <b>Gigantosaurus</b> reflects the different ways 4-6-year-old children discover the world… and themselves.</p>",
+      "updated": 1646852127,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/40689" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2291522"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2291523" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2291523" } }
+  },
+  {
+    "id": 2291524,
+    "url": "https://www.tvmaze.com/episodes/2291524/gigantosaurus-3x32-watching-you",
+    "name": "Watching You",
+    "season": 3,
+    "number": 32,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "09:00",
+    "airstamp": "2022-03-28T13:00:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 40689,
+      "url": "https://www.tvmaze.com/shows/40689/gigantosaurus",
+      "name": "Gigantosaurus",
+      "type": "Animation",
+      "language": "English",
+      "genres": ["Adventure", "Children", "Fantasy"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2019-01-18",
+      "ended": null,
+      "officialSite": "https://disneynow.go.com/shows/gigantosaurus",
+      "schedule": { "time": "09:00", "days": ["Friday"] },
+      "rating": { "average": null },
+      "weight": 69,
+      "network": {
+        "id": 78,
+        "name": "Disney Channel",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 357844, "imdb": "tt9636800" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/181/454793.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/181/454793.jpg"
+      },
+      "summary": "<p>Four little dinos and one BIG Gigantosaurus… learn to dare! Rocky, Bill, Tiny, and Mazu are four young dinosaurs growing up in the Cretaceous period. Life is always an adventure: new volcanoes are popping up all the time, long-necked brachiosauruses and enormous triceratopses roam free, meteor showers light up the night sky and… the big bad Gigantosaurus reigns over it all!</p><p>The mere mention of Gigantosaurus's name is enough to stir a range of conflicting emotions in the four young dinos: fear (Bill), fascination (Rocky), laughter (Tiny), and scientific interest (Mazu). Through the adventures of the young dino heroes, <b>Gigantosaurus</b> reflects the different ways 4-6-year-old children discover the world… and themselves.</p>",
+      "updated": 1646852127,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/40689" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2291522"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2291523" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2291524" } }
+  },
+  {
+    "id": 2301554,
+    "url": "https://www.tvmaze.com/episodes/2301554/rachael-ray-16x114-tommy-didario-is-helping-a-wife-give-her-mountain-man-husband-a-makeover",
+    "name": "Tommy DiDario Is Helping a Wife Give Her \"Mountain Man\" Husband a Makeover!",
+    "season": 16,
+    "number": 114,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "11:00",
+    "airstamp": "2022-03-28T15:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Tommy DiDario helps a woman give her husband a makeover; pantry staples that could fight illness; Rachael makes garlic bread rolls and noodles.</p>",
+    "show": {
+      "id": 9077,
+      "url": "https://www.tvmaze.com/shows/9077/rachael-ray",
+      "name": "Rachael Ray",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2006-09-18",
+      "ended": null,
+      "officialSite": "http://www.rachaelrayshow.com/",
+      "schedule": {
+        "time": "11:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 4.4 },
+      "weight": 84,
+      "network": {
+        "id": 4,
+        "name": "FOX",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.fox.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 267266, "imdb": "tt0827947" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/80226.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/80226.jpg"
+      },
+      "summary": "<p><b>Rachael Ray</b>, also known as <i>Rachael</i> and <i>The Rachael Ray Show</i>, is an American talk show starring Rachael Ray that debuted in syndication in the United States and Canada on September 18, 2006 and also airs in other countries. It is taped at Chelsea Television Studios in New York City. The show's 8th season premiered on September 9, 2013, and became the last Harpo show in syndication to switch to HD with a revamped studio. The concept behind this program showcases Ray's culinary skills. She brings various celebrities on screen to discuss their accomplishments in the entertainment, sports, and media industries. Ray asks for tips and strategies for staying healthy and safe from various health and lifestyle experts, she includes make-over segments, and features musical performances, all of which are features along the same lines of <i>The Oprah Winfrey Show</i>. She does, however, keep cooking in the forefront by including at least one cooking segment at the end of each episode, and sometimes inviting her celebrity guests to join her in the kitchen. According to Ray, \"People know me for my love of food, but I have so much more I want to share\". The set has the audience seated on a large turntable that rotates so that the audience can always see the \"action\" on the circular stage that surrounds them. At the end of each show, with the exception of a few more guests after Ray's cooking segments, Ray's tagline is, \"We'll see you when we see you\".</p>",
+      "updated": 1648217699,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/9077" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297729"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2301554" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2301554" } }
+  },
+  {
+    "id": 2301583,
+    "url": "https://www.tvmaze.com/episodes/2301583/the-view-2022-03-28-jimmy-fallon",
+    "name": "Jimmy Fallon",
+    "season": 2022,
+    "number": 61,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "11:00",
+    "airstamp": "2022-03-28T15:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Jimmy Fallon (author, \"Nana Loves You More\"; \"The Tonight Show Starring Jimmy Fallon\"); \"View Your Deal\" with hottest items at affordable prices.</p>",
+    "show": {
+      "id": 6048,
+      "url": "https://www.tvmaze.com/shows/6048/the-view",
+      "name": "The View",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1997-08-11",
+      "ended": null,
+      "officialSite": "http://abc.go.com/shows/the-view/about-the-show",
+      "schedule": {
+        "time": "11:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 2.7 },
+      "weight": 91,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": "tt0123366" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/898286.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/898286.jpg"
+      },
+      "summary": "<p><b>The View</b> is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</p>",
+      "updated": 1648246714,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/6048" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297821"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2301583" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2301583" } }
+  },
+  {
+    "id": 2300447,
+    "url": "https://www.tvmaze.com/episodes/2300447/the-young-and-the-restless-2022-03-28-ep-12328",
+    "name": "Ep. #12328",
+    "season": 2022,
+    "number": 58,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "12:30",
+    "airstamp": "2022-03-28T16:30:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 4344,
+      "url": "https://www.tvmaze.com/shows/4344/the-young-and-the-restless",
+      "name": "The Young and the Restless",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Family", "Romance"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1973-03-26",
+      "ended": null,
+      "officialSite": "http://www.cbs.com/shows/the_young_and_the_restless/",
+      "schedule": {
+        "time": "12:30",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 5.9 },
+      "weight": 95,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 6318, "thetvdb": 70328, "imdb": "tt0069658" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/233/583614.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/583614.jpg"
+      },
+      "summary": "<p><b>The Young and the Restless</b> revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</p>",
+      "updated": 1648333426,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/4344" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294978"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2300447" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2300447" } }
+  },
+  {
+    "id": 2296696,
+    "url": "https://www.tvmaze.com/episodes/2296696/the-bold-and-the-beautiful-2022-03-28-ep-8737",
+    "name": "Ep. #8737",
+    "season": 2022,
+    "number": 57,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "13:30",
+    "airstamp": "2022-03-28T17:30:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 806,
+      "url": "https://www.tvmaze.com/shows/806/the-bold-and-the-beautiful",
+      "name": "The Bold and the Beautiful",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Family", "Romance"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1987-03-23",
+      "ended": null,
+      "officialSite": "https://www.cbs.com/shows/the_bold_and_the_beautiful/",
+      "schedule": {
+        "time": "13:30",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 5 },
+      "weight": 95,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 5631, "thetvdb": 79838, "imdb": "tt0092325" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/233/583612.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/583612.jpg"
+      },
+      "summary": "<p>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. <b>The Bold and the Beautiful</b>, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on <i>The Bold and the Beautiful</i>...</p>",
+      "updated": 1648401507,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/806" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2296695"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2296696" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2296696" } }
+  },
+  {
+    "id": 2298913,
+    "url": "https://www.tvmaze.com/episodes/2298913/general-hospital-2022-03-28-ep-14944",
+    "name": "Ep. #14944",
+    "season": 2022,
+    "number": 61,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "14:00",
+    "airstamp": "2022-03-28T18:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 4189,
+      "url": "https://www.tvmaze.com/shows/4189/general-hospital",
+      "name": "General Hospital",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Medical"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1963-04-01",
+      "ended": null,
+      "officialSite": "http://abc.go.com/shows/general-hospital",
+      "schedule": {
+        "time": "14:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 5.4 },
+      "weight": 95,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 3653, "thetvdb": 75332, "imdb": "tt0056758" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/898271.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/898271.jpg"
+      },
+      "summary": "<p><b>General Hospital</b>, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</p>",
+      "updated": 1648387339,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/4189" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2298912"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298913" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298913" } }
+  },
+  {
+    "id": 2300472,
+    "url": "https://www.tvmaze.com/episodes/2300472/the-ellen-degeneres-show-2022-03-28-david-letterman",
+    "name": "David Letterman",
+    "season": 2022,
+    "number": 57,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "15:00",
+    "airstamp": "2022-03-28T19:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>David Letterman; quick-change artist Léa Kyle (\"America's Got Talent Las Vegas Live\"); Ukrainian dancer Slavik \"Vik\" Vyacheslav Pustovoytov performs.</p>",
+    "show": {
+      "id": 2142,
+      "url": "https://www.tvmaze.com/shows/2142/the-ellen-degeneres-show",
+      "name": "The Ellen DeGeneres Show",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": ["Family", "Music"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2003-09-08",
+      "ended": null,
+      "officialSite": "http://www.ellentv.com",
+      "schedule": {
+        "time": "15:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 5.4 },
+      "weight": 97,
+      "network": {
+        "id": 72,
+        "name": "Syndication",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 5750, "thetvdb": 72194, "imdb": "tt0379623" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/205/513096.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/205/513096.jpg"
+      },
+      "summary": "<p><b>The Ellen DeGeneres Show</b> is an hour-long, five-days-a-week, talk-variety show. This talk-variety show features comic Ellen DeGeneres in the studio performing an opening monologue and interviewing guests who include celebrities, newsmakers and ordinary people with extraordinary talents. Additionally, segments include performances from top music acts, audience participation and man-on-the-street interviews. Music is a key part of the show, with an in-studio DJ -- including occasional celebrity guest DJs -- spinning tunes and DeGeneres often breaking out into dance moves during the show.</p>",
+      "updated": 1648103368,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/2142" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2296711"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2300472" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2300472" } }
+  },
+  {
+    "id": 2301050,
+    "url": "https://www.tvmaze.com/episodes/2301050/the-wendy-williams-show-2022-03-28-guest-hosts-carson-kressley-vivica-a-fox",
+    "name": "Guest hosts Carson Kressley & Vivica A. Fox",
+    "season": 2022,
+    "number": 52,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "15:00",
+    "airstamp": "2022-03-28T19:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 5849,
+      "url": "https://www.tvmaze.com/shows/5849/the-wendy-williams-show",
+      "name": "The Wendy Williams Show",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2008-07-14",
+      "ended": null,
+      "officialSite": "http://wendyshow.com/",
+      "schedule": {
+        "time": "15:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": null },
+      "weight": 87,
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 282993, "imdb": "tt1261356" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/388/971861.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/388/971861.jpg"
+      },
+      "summary": "<p>After an enormously successful 23-year career as a radio personality, Wendy Williams concocted <b>The Wendy Williams Show</b> in July of 2008, which became nationally syndicated in its first season. Dubbed a \"breakthrough in daytime\" by <i>The New York Times</i>, <i>The Wendy Williams Show</i> airs in 52 countries and on BET weekdays at midnight. The show is a direct mirror image of its host. From the upbeat theme music to the eye-catching decor on set, Wendy brings to life segments like \"Ask Wendy,\" where audience members receive real-life advice from the host herself and \"Hot Topics,\" where she dishes her touch-and-go, authentic opinion on the juiciest headlines.</p>",
+      "updated": 1648221105,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/5849" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297931"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2301050" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2301050" } }
+  },
+  {
+    "id": 2252637,
+    "url": "https://www.tvmaze.com/episodes/2252637/naked-news-2022-03-28-2022-03-28",
+    "name": "2022-03-28",
+    "season": 2022,
+    "number": 74,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "17:00",
+    "airstamp": "2022-03-28T21:00:00+00:00",
+    "runtime": 25,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 32095,
+      "url": "https://www.tvmaze.com/shows/32095/naked-news",
+      "name": "Naked News",
+      "type": "News",
+      "language": "English",
+      "genres": ["Adult"],
+      "status": "Running",
+      "runtime": 25,
+      "averageRuntime": 25,
+      "premiered": "1999-12-13",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+        "time": "17:00",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ]
+      },
+      "rating": { "average": 8.1 },
+      "weight": 96,
+      "network": {
+        "id": 1035,
+        "name": "Playboy TV",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 266718, "imdb": "tt0249044" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/128/321820.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/128/321820.jpg"
+      },
+      "summary": "<p><b>Naked News</b>, billing itself as \"the program with nothing to hide\", is a subscription website featuring a real television newscast. The show is prepared in Toronto and runs daily, with 25-minute episodes 6 days per week. The female anchors read the news fully nude or strip as they present their news segments. Naked News TV is its offshoot pay-per-view or subscription service. Naked News also aired briefly as a late night television series on Citytv Toronto.</p>",
+      "updated": 1641743825,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/32095" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2252636"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2252637" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2252637" } }
+  },
+  {
+    "id": 2298547,
+    "url": "https://www.tvmaze.com/episodes/2298547/judge-mathis-23x109-109",
+    "name": "109",
+    "season": 23,
+    "number": 109,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "17:00",
+    "airstamp": "2022-03-28T21:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 38930,
+      "url": "https://www.tvmaze.com/shows/38930/judge-mathis",
+      "name": "Judge Mathis",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Legal"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1999-09-13",
+      "ended": null,
+      "officialSite": "http://judgemathistv.com/",
+      "schedule": {
+        "time": "17:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": null },
+      "weight": 74,
+      "network": {
+        "id": 72,
+        "name": "Syndication",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 265539, "imdb": "tt0346307" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/423566.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/423566.jpg"
+      },
+      "summary": "<p><b>Judge Mathis</b> is an American arbitration-based reality court show presided over by retired Superior Court Judge of Michigan's 36th District Court, Greg Mathis. The syndicated series features Mathis adjudicating small claims disputes.</p>",
+      "updated": 1647762522,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/38930" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2298546"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298547" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298547" } }
+  },
+  {
+    "id": 2252916,
+    "url": "https://www.tvmaze.com/episodes/2252916/pbs-newshour-2022-03-28-march-28-2022",
+    "name": "March 28, 2022",
+    "season": 2022,
+    "number": 61,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "18:00",
+    "airstamp": "2022-03-28T22:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 10563,
+      "url": "https://www.tvmaze.com/shows/10563/pbs-newshour",
+      "name": "PBS NewsHour",
+      "type": "News",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1975-10-20",
+      "ended": null,
+      "officialSite": "http://www.pbs.org/newshour/",
+      "schedule": {
+        "time": "18:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": null },
+      "weight": 80,
+      "network": {
+        "id": 85,
+        "name": "PBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 81388, "imdb": "tt0247880" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/89115.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/89115.jpg"
+      },
+      "summary": "<p><b>PBS NewsHour</b> is the long running news magazine broadcast every weeknight on PBS. The show was created by veteran newsmen Robert MacNeil &amp; Jim Lehrer, and has been on the air since 1975. In 2009, the show, previously known as The NewsHour With Jim Lehrer, became PBS NewsHour. One of the major differences between network news and the PBS NewsHour is that because the show is publicly funded, there are no commercials. This allows the NewsHour to dedicate more time to comprehensive reporting.</p>",
+      "updated": 1641744445,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/10563" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2252915"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2252916" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2252916" } }
+  },
+  {
+    "id": 2282341,
+    "url": "https://www.tvmaze.com/episodes/2282341/jeopardy-2022-03-28-returning-champion-vs-vs-show-8606",
+    "name": "Returning Champion Vs. Vs. , show # 8606.",
+    "season": 2021,
+    "number": 141,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "18:00",
+    "airstamp": "2022-03-28T22:00:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Returning Champion;</p>",
+    "show": {
+      "id": 2193,
+      "url": "https://www.tvmaze.com/shows/2193/jeopardy",
+      "name": "Jeopardy!",
+      "type": "Game Show",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1984-09-10",
+      "ended": null,
+      "officialSite": "https://www.jeopardy.com/",
+      "schedule": {
+        "time": "18:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 8.6 },
+      "weight": 94,
+      "network": {
+        "id": 72,
+        "name": "Syndication",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 7879, "thetvdb": 77075, "imdb": "tt0159881" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30370.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30370.jpg"
+      },
+      "summary": "<p><b>Jeopardy!</b> is a classic game show -- with a twist. The answers are given first, and the contestants supply the questions. Three contestants, including the previous show's champion, compete in six categories and in three rounds (with each round's \"answers\" being worth more prize money).</p><p>Contestant images from 2015 onwards are provided courtesy of Fikkle Fame.</p>",
+      "updated": 1648255502,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/2193" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2282340"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2282341" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2282341" } }
+  },
+  {
+    "id": 2298502,
+    "url": "https://www.tvmaze.com/episodes/2298502/wheel-of-fortune-2022-03-28-141",
+    "name": "141",
+    "season": 2022,
+    "number": 61,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "19:30",
+    "airstamp": "2022-03-28T23:30:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 2199,
+      "url": "https://www.tvmaze.com/shows/2199/wheel-of-fortune",
+      "name": "Wheel of Fortune",
+      "type": "Game Show",
+      "language": "English",
+      "genres": ["Family"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1975-01-06",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+        "time": "19:30",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": null },
+      "weight": 91,
+      "network": {
+        "id": 72,
+        "name": "Syndication",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 7001, "thetvdb": 76573, "imdb": "tt0072584" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30416.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30416.jpg"
+      },
+      "summary": "<p>With more than 30 million viewers per week, <b>Wheel of Fortune</b> has been the #1 syndicated game show since its inception. It has earned six Daytime Emmy Awards, including the 2011 Emmy for Outstanding Game/Audience Participation Show. The series continues to attract a larger audience than many Primetime TV shows.</p>",
+      "updated": 1648064712,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/2199" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2298501"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298502" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298502" } }
+  },
+  {
+    "id": 2240657,
+    "url": "https://www.tvmaze.com/episodes/2240657/9-1-1-5x12-boston",
+    "name": "Boston",
+    "season": 5,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 61,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Chimney is determined to find a missing Maddie amongst the chaos of St. Patrick's Day.</p>",
+    "show": {
+      "id": 28152,
+      "url": "https://www.tvmaze.com/shows/28152/9-1-1",
+      "name": "9-1-1",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Action", "Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2018-01-03",
+      "ended": null,
+      "officialSite": "https://www.fox.com/9-1-1/",
+      "schedule": { "time": "20:00", "days": ["Monday"] },
+      "rating": { "average": 7.5 },
+      "weight": 100,
+      "network": {
+        "id": 4,
+        "name": "FOX",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.fox.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 337907, "imdb": "tt7235466" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/400/1001093.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/400/1001093.jpg"
+      },
+      "summary": "<p><b>9-1-1</b> is a fast-paced exploration into the lives and careers of first responders – cops, paramedics, firefighters – the people who put their lives on the line to save others.</p>",
+      "updated": 1648443152,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/28152" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2228444"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2240657" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2240657" } }
+  },
+  {
+    "id": 2255713,
+    "url": "https://www.tvmaze.com/episodes/2255713/wwe-monday-night-raw-29x13-1505-ppg-paints-arena-in-pittsburgh-pa",
+    "name": "#1505 - PPG Paints Arena in Pittsburgh, PA",
+    "season": 29,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 180,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 802,
+      "url": "https://www.tvmaze.com/shows/802/wwe-monday-night-raw",
+      "name": "WWE Monday Night RAW",
+      "type": "Sports",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 180,
+      "averageRuntime": 181,
+      "premiered": "1993-01-11",
+      "ended": null,
+      "officialSite": "http://www.wwe.com/",
+      "schedule": { "time": "20:00", "days": ["Monday"] },
+      "rating": { "average": 7.5 },
+      "weight": 90,
+      "network": {
+        "id": 30,
+        "name": "USA Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": {
+        "id": 15,
+        "name": "WWE Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "dvdCountry": null,
+      "externals": { "tvrage": 6659, "thetvdb": 76779, "imdb": "tt0185103" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/357/892591.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/892591.jpg"
+      },
+      "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
+      "updated": 1647663354,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/802" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2244848"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2255713" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2255713" } }
+  },
+  {
+    "id": 2260620,
+    "url": "https://www.tvmaze.com/episodes/2260620/american-song-contest-1x02-the-live-qualifiers-part-2",
+    "name": "The Live Qualifiers Part 2",
+    "season": 1,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 120,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>The qualifiers continue with the reveal of which three acts from the Qualifiers Premiere are moving on to the Semi-Finals. The next batch of 11 artists take the stage with original music to compete to win the country's vote for best hit song. </p>",
+    "show": {
+      "id": 55428,
+      "url": "https://www.tvmaze.com/shows/55428/american-song-contest",
+      "name": "American Song Contest",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Music"],
+      "status": "Running",
+      "runtime": 120,
+      "averageRuntime": 120,
+      "premiered": "2022-03-21",
+      "ended": null,
+      "officialSite": null,
+      "schedule": { "time": "20:00", "days": ["Monday"] },
+      "rating": { "average": 1 },
+      "weight": 95,
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 402902, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/996436.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/996436.jpg"
+      },
+      "summary": "<p>America's biggest live entertainment event has arrived! Based on the worldwide phenomenon \"Eurovision Song Contest,\" this amazing musical spectacular combines the competitive spirit of rooting for your favorite sports team with the joy of watching a beloved singing performance. In the U.S. version of the international megahit, <b>American Song Contest</b> will feature live original musical performances, representing all 50 states, five U.S. territories and our nation's capital, competing to win the country's vote for the Best Original Song. An incredible solo artist, duo, DJ or a band will represent each location and will perform a new, original song, celebrating the different styles and genres across America. The live competition consists of three rounds as the acts compete in a series of Qualifying Rounds, followed by the Semi Finals and the ultimate Grand Final where one state or territory will emerge victorious.</p>",
+      "updated": 1648031760,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/55428" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2215387"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2260620" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2260620" } }
+  },
+  {
+    "id": 2279989,
+    "url": "https://www.tvmaze.com/episodes/2279989/the-neighborhood-4x17-welcome-to-bro-money-bro-problems",
+    "name": "Welcome to Bro Money, Bro Problems",
+    "season": 4,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Calvin's wealthy and impulsive brother Curtis makes a surprise visit, creating chaos in the Butlers' lives. Also, Dave and Gemma run into challenges while trying to declutter their home.</p>",
+    "show": {
+      "id": 35839,
+      "url": "https://www.tvmaze.com/shows/35839/the-neighborhood",
+      "name": "The Neighborhood",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Comedy", "Family"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2018-10-01",
+      "ended": null,
+      "officialSite": "https://www.cbs.com/shows/the-neighborhood/",
+      "schedule": { "time": "20:00", "days": ["Monday"] },
+      "rating": { "average": 6.1 },
+      "weight": 99,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 348851, "imdb": "tt7942794" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/897631.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/897631.jpg"
+      },
+      "summary": "<p><b>The Neighborhood</b> telling about what happens when the friendliest guy in the Midwest moves his family to a neighborhood in Los Angeles where not everyone looks like him or appreciates his extreme neighborliness. When Dave Johnson and his family arrive from Michigan, they're unfazed that their new dream home is located in a community quite different from their small town. However, their opinionated next-door neighbor, Calvin Butler, is wary of the newcomers, certain that they'll disrupt the culture on the block. Dave realizes that fitting into their new community is more complex than he expected, but if he can find a way to connect with Calvin, they have an excellent chance of making their new neighborhood their home.</p>",
+      "updated": 1648325378,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/35839" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2279988"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2279989" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2279989" } }
+  },
+  {
+    "id": 2284209,
+    "url": "https://www.tvmaze.com/episodes/2284209/spring-baking-championship-8x05-cherry-blossom-bake-off",
+    "name": "Cherry Blossom Bake-Off",
+    "season": 8,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Cherry blossom festivals are an iconic celebration of spring, so host Molly Yeh asks the bakers to take the beauty of the blooms and turn them into inspired cherry blossom desserts. Judges Kardea Brown, Nancy Fuller and Duff Goldman marvel at the beauty of the season and the beauty of the bakers' creations.</p>",
+    "show": {
+      "id": 13435,
+      "url": "https://www.tvmaze.com/shows/13435/spring-baking-championship",
+      "name": "Spring Baking Championship",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Food"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2015-04-26",
+      "ended": null,
+      "officialSite": "https://www.foodnetwork.com/shows/spring-baking-championship",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 93,
+      "network": {
+        "id": 81,
+        "name": "Food Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 294887, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/351/878474.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/351/878474.jpg"
+      },
+      "summary": "<p>Eight bakers compete, preparing delicious springtime desserts for the chance to win the grand prize of $50,000.</p>",
+      "updated": 1646152186,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/13435" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2277274"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2284209" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2284209" } }
+  },
+  {
+    "id": 2286110,
+    "url": "https://www.tvmaze.com/episodes/2286110/high-stakes-poker-9x06-episode-6",
+    "name": "Episode 6",
+    "season": 9,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 12617,
+      "url": "https://www.tvmaze.com/shows/12617/high-stakes-poker",
+      "name": "High Stakes Poker",
+      "type": "Sports",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2006-01-16",
+      "ended": null,
+      "officialSite": "http://www.gsn.com/shows/highstakespoker/",
+      "schedule": { "time": "20:00", "days": ["Saturday"] },
+      "rating": { "average": null },
+      "weight": 72,
+      "network": {
+        "id": 189,
+        "name": "Game Show Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 7942, "thetvdb": 79191, "imdb": "tt0497294" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/43/107940.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/107940.jpg"
+      },
+      "summary": "<p><b>High Stakes Poker</b> is the premier cash game in the history of television. The world's top amateur poker and professional poker players risk hundreds of thousands from their own pockets.</p>",
+      "updated": 1645977480,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/12617" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2286109"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2286110" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2286110" } }
+  },
+  {
+    "id": 2293211,
+    "url": "https://www.tvmaze.com/episodes/2293211/all-american-4x13-jump-on-it",
+    "name": "Jump on It",
+    "season": 4,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>After weeks of hard work at practice and the first game quickly approaching, Spencer has high hopes of playing in his first college game. Trying to find his place on the team, Jordan forms a bond with some of the seniors. Asher and Layla have epiphanies about their respective relationships and realize they need to deal with it. Coop and Patience finally speak their truths leaving them in unknown territory. Meanwhile, Olivia learns an important lesson as she slowly tries to work her way up the ladder at the paper.</p>",
+    "show": {
+      "id": 34653,
+      "url": "https://www.tvmaze.com/shows/34653/all-american",
+      "name": "All American",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Sports"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2018-10-10",
+      "ended": null,
+      "officialSite": "http://www.cwtv.com/shows/all-american/",
+      "schedule": { "time": "20:00", "days": ["Monday"] },
+      "rating": { "average": 6.5 },
+      "weight": 99,
+      "network": {
+        "id": 5,
+        "name": "The CW",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cwtv.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 348200, "imdb": "tt7414406" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1003157.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1003157.jpg"
+      },
+      "summary": "<p>When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds — Compton and Beverly Hills — begin to collide. Inspired by the life of pro football player Spencer Paysinger.</p>",
+      "updated": 1648413295,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/34653" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2288731"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2293211" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2293211" } }
+  },
+  {
+    "id": 2297326,
+    "url": "https://www.tvmaze.com/episodes/2297326/all-in-with-chris-hayes-2022-03-28-episode-60",
+    "name": "Episode 60",
+    "season": 2022,
+    "number": 60,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 9311,
+      "url": "https://www.tvmaze.com/shows/9311/all-in-with-chris-hayes",
+      "name": "All In with Chris Hayes",
+      "type": "News",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2013-04-01",
+      "ended": null,
+      "officialSite": "http://www.msnbc.com/all",
+      "schedule": {
+        "time": "20:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 5.7 },
+      "weight": 87,
+      "network": {
+        "id": 201,
+        "name": "MSNBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 282633, "imdb": "tt2926042" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/81912.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/81912.jpg"
+      },
+      "summary": "<p>On <b>All In with Chris Hayes</b>, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</p>",
+      "updated": 1648191597,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/9311" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297325"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2297326" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2297326" } }
+  },
+  {
+    "id": 2297989,
+    "url": "https://www.tvmaze.com/episodes/2297989/black-ink-crew-new-york-9x16-silicone-valley",
+    "name": "Silicone Valley",
+    "season": 9,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 2889,
+      "url": "https://www.tvmaze.com/shows/2889/black-ink-crew-new-york",
+      "name": "Black Ink Crew New York",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2013-01-07",
+      "ended": null,
+      "officialSite": "http://www.vh1.com/shows/black-ink-crew-new-york",
+      "schedule": { "time": "20:00", "days": ["Wednesday"] },
+      "rating": { "average": 3.7 },
+      "weight": 89,
+      "network": {
+        "id": 55,
+        "name": "VH1",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 33117, "thetvdb": 265155, "imdb": "tt2738096" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/332/831299.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/831299.jpg"
+      },
+      "summary": "<p>Ceaser has been Harlem's reigning tattoo king for years, but with discord and misconduct among his crew threatening to destroy everything he's built, it's time to for drastic measures. <b>Black Ink Crew New York</b> follows Ceaser's efforts to manage his expanding tattoo empire, while also documenting the drama-filled lives of his rambunctious staff.</p>",
+      "updated": 1647671375,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/2889" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294025"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2297989" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2297989" } }
+  },
+  {
+    "id": 2298234,
+    "url": "https://www.tvmaze.com/episodes/2298234/100-day-dream-home-3x06-bye-bye-bungalow",
+    "name": "Bye-Bye Bungalow",
+    "season": 3,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 45669,
+      "url": "https://www.tvmaze.com/shows/45669/100-day-dream-home",
+      "name": "100 Day Dream Home",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["DIY"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 46,
+      "premiered": "2020-01-01",
+      "ended": null,
+      "officialSite": "https://www.hgtv.com/shows/100-day-dream-home",
+      "schedule": { "time": "20:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 92,
+      "network": {
+        "id": 192,
+        "name": "HGTV",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 374810, "imdb": "tt12169564" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/382/956896.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956896.jpg"
+      },
+      "summary": "<p>Brian and Mika Kleinschmidt are a husband-and-wife team from Tampa, Florida, that makes dream homes come true. She's the realtor, he's the developer and together they help clients both design and build the perfect house from the ground up in 100 days or less.</p>",
+      "updated": 1648374824,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/45669" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294163"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298234" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298234" } }
+  },
+  {
+    "id": 2299048,
+    "url": "https://www.tvmaze.com/episodes/2299048/american-idol-20x07-hollywood-week-genre-challenge",
+    "name": "Hollywood Week: Genre Challenge",
+    "season": 20,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 120,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>The search for the next superstar continues as \"American Idol\" kicks off its iconic Hollywood Week, with some of the most prolific alums in \"Idol\"'s 20-year history returning to mentor the contestants, including Jordin Sparks, David Cook, Lauren Alaina, Ruben Studdard, Chayce Beckham, Lee DeWyze and Haley Reinhart. Fan favorites from auditions will then take the stage for the Genre Challenge to sing their hearts out and impress judges Luke Bryan, Katy Perry and Lionel Richie in hopes of making it through to the next round.</p>",
+    "show": {
+      "id": 288,
+      "url": "https://www.tvmaze.com/shows/288/american-idol",
+      "name": "American Idol",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Music"],
+      "status": "Running",
+      "runtime": 120,
+      "averageRuntime": 118,
+      "premiered": "2002-06-11",
+      "ended": null,
+      "officialSite": "http://www.americanidol.com",
+      "schedule": { "time": "20:00", "days": ["Monday", "Sunday"] },
+      "rating": { "average": 5.5 },
+      "weight": 98,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 2601, "thetvdb": 70814, "imdb": "tt0319931" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/298/745979.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/298/745979.jpg"
+      },
+      "summary": "<p><b>American Idol </b>is an American singing competition show, where contestants perform in front of a panel of star judges, representing the music industry. The winner is determined by viewers' vote.</p>",
+      "updated": 1647952952,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/288" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2299544"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2299048" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2299048" } }
+  },
+  {
+    "id": 2301714,
+    "url": "https://www.tvmaze.com/episodes/2301714/anderson-cooper-360-2022-03-28-episode-60",
+    "name": "Episode 60",
+    "season": 2022,
+    "number": 60,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:00",
+    "airstamp": "2022-03-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 9070,
+      "url": "https://www.tvmaze.com/shows/9070/anderson-cooper-360",
+      "name": "Anderson Cooper 360°",
+      "type": "News",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 79,
+      "premiered": "2003-09-08",
+      "ended": null,
+      "officialSite": "http://www.cnn.com/shows/ac-360",
+      "schedule": {
+        "time": "20:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 3.8 },
+      "weight": 87,
+      "network": {
+        "id": 40,
+        "name": "CNN",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 348618, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/129/324367.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/129/324367.jpg"
+      },
+      "summary": "<p><b>Anderson Cooper 360°</b> (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</p>",
+      "updated": 1648262219,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/9070" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2298475"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2301714" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2301714" } }
+  },
+  {
+    "id": 2286047,
+    "url": "https://www.tvmaze.com/episodes/2286047/bob-abishola-3x17-inappropriate-nakedness",
+    "name": "Inappropriate Nakedness",
+    "season": 3,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "20:30",
+    "airstamp": "2022-03-29T00:30:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Bob and Abishola decide her mother has officially overstayed her welcome when Ebunoluwa starts renovating Bob's guest room. Also, when Abishola and Kemi hatch a plan to have a spirit speak to Ebunoluwa from beyond the grave, Abishola gets more information about her mother than she bargained for.</p>",
+    "show": {
+      "id": 42167,
+      "url": "https://www.tvmaze.com/shows/42167/bob-abishola",
+      "name": "Bob ♥ Abishola",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2019-09-23",
+      "ended": null,
+      "officialSite": "https://www.cbs.com/shows/bob-hearts-abishola/",
+      "schedule": { "time": "20:30", "days": ["Monday"] },
+      "rating": { "average": 6 },
+      "weight": 99,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 364046, "imdb": "tt10329024" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/897630.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/897630.jpg"
+      },
+      "summary": "<p>After having a heart attack, a middle-aged sock businessman from Detroit unexpectedly falls for his cardiac nurse, a Nigerian immigrant, and sets his sights on getting her to give him a chance.</p>",
+      "updated": 1648324113,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/42167" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2289590"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2286047" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2286047" } }
+  },
+  {
+    "id": 2269799,
+    "url": "https://www.tvmaze.com/episodes/2269799/snowpiercer-3x10-the-original-sinners",
+    "name": "The Original Sinners",
+    "season": 3,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 63,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>It all comes to a head as old adversaries clash, with New Eden hanging in the balance.</p>",
+    "show": {
+      "id": 23030,
+      "url": "https://www.tvmaze.com/shows/23030/snowpiercer",
+      "name": "Snowpiercer",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Science-Fiction", "Thriller"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 61,
+      "premiered": "2020-05-17",
+      "ended": null,
+      "officialSite": "https://www.tntdrama.com/snowpiercer",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 6.9 },
+      "weight": 100,
+      "network": {
+        "id": 14,
+        "name": "TNT",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 364928, "imdb": "tt6156584" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/389/973820.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/389/973820.jpg"
+      },
+      "summary": "<p><b>Snowpiercer</b> is set seven years after the world has become a frozen wasteland, and the remnants of humanity inhabit a gigantic, perpetually moving train that circles the globe. Class warfare, social injustice and the politics of survival are questioned in this riveting television adaptation.</p>",
+      "updated": 1648443247,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/23030" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2269798"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2269799" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2269799" } }
+  },
+  {
+    "id": 2274940,
+    "url": "https://www.tvmaze.com/episodes/2274940/ncis-19x17-starting-over",
+    "name": "Starting Over",
+    "season": 19,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>NCIS investigates the apparent suicide of a retired Navy officer who was in Palmer and Knight's grief group. Also, Torres gets a call from NCIS Special Agent Jane Tennant to come to Hawai'i when she gets a lead on a witness from a case they worked on together.</p>",
+    "show": {
+      "id": 60,
+      "url": "https://www.tvmaze.com/shows/60/ncis",
+      "name": "NCIS",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Action", "Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2003-09-23",
+      "ended": null,
+      "officialSite": "http://www.cbs.com/shows/ncis/",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 8.1 },
+      "weight": 100,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 4628, "thetvdb": 72108, "imdb": "tt0364845" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/357/893815.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/893815.jpg"
+      },
+      "summary": "<p><b>NCIS</b> (Naval Criminal Investigative Service) is more than just an action drama. With liberal doses of humor, it's a show that focuses on the sometimes complex and always amusing dynamics of a team forced to work together in high-stress situations. Leroy Jethro Gibbs, a former Marine gunnery sergeant, whose skills as an investigator are unmatched, leads this troupe of colorful personalities. Rounding out the team are Anthony DiNozzo, an ex-homicide detective whose instincts in the field are unparalleled and whose quick wit and humorous take on life make him a team favorite; the youthful and energetic forensic specialist Abby Sciuto, a talented scientist whose sharp mind matches her Goth style and eclectic tastes; Caitlin Todd, an ex-Secret Service Agent; and Timothy McGee, an MIT graduate whose brilliance with computers far overshadows his insecurities in the field; Assisting the team is medical examiner Dr. Donald \"Ducky\" Mallard, who knows it all because he's seen it all, and he's not afraid to let you know. From murder and espionage to terrorism and stolen submarines, these special agents travel the globe to investigate all crimes with Navy or Marine Corps ties.</p>",
+      "updated": 1648173534,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/60" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2274939"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2274940" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2274940" } }
+  },
+  {
+    "id": 2282472,
+    "url": "https://www.tvmaze.com/episodes/2282472/devoured-1x06-episode-6",
+    "name": "Episode 6",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 60620,
+      "url": "https://www.tvmaze.com/shows/60620/devoured",
+      "name": "Devoured",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Drama", "Food", "Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-02-21",
+      "ended": null,
+      "officialSite": "https://www.vicetv.com/en_us/show/devoured",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 89,
+      "network": {
+        "id": 1006,
+        "name": "Vice TV",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 416275, "imdb": "tt18271152" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/397/992626.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/992626.jpg"
+      },
+      "summary": "<p>A series set at the intersection of true crime &amp; food, tracking true stories that have altered the culinary landscape.</p><p><br /> </p>",
+      "updated": 1645825541,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/60620" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2282471"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2282472" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2282472" } }
+  },
+  {
+    "id": 2284274,
+    "url": "https://www.tvmaze.com/episodes/2284274/below-deck-sailing-yacht-3x06-yacht-on-the-rocks",
+    "name": "Yacht on the Rocks",
+    "season": 3,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 45485,
+      "url": "https://www.tvmaze.com/shows/45485/below-deck-sailing-yacht",
+      "name": "Below Deck Sailing Yacht",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Travel"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 61,
+      "premiered": "2020-02-03",
+      "ended": null,
+      "officialSite": "https://www.bravotv.com/below-deck-sailing-yacht",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 3.9 },
+      "weight": 96,
+      "network": {
+        "id": 52,
+        "name": "Bravo",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 374012, "imdb": "tt10087444" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/315/788791.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/315/788791.jpg"
+      },
+      "summary": "<p>Bravo sets sail on the newest iteration of the highly rated and acclaimed original franchise with <b>Below Deck Sailing Yacht</b>. Trading in the motor yacht famed on Below Deck, this series is set on a luxury sailing yacht with a new crew and equally demanding charter guests looking to follow the wind as they cruise along the crystal-clear blue waters of Corfu, Greece.</p>",
+      "updated": 1648374422,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/45485" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2284273"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2284274" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2284274" } }
+  },
+  {
+    "id": 2289851,
+    "url": "https://www.tvmaze.com/episodes/2289851/studio-c-15x03-the-spy-who-hugged-me",
+    "name": "The Spy Who Hugged Me",
+    "season": 15,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 6923,
+      "url": "https://www.tvmaze.com/shows/6923/studio-c",
+      "name": "Studio C",
+      "type": "Variety",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2012-10-06",
+      "ended": null,
+      "officialSite": "https://www.byutv.org/studioc",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 75,
+      "network": {
+        "id": 467,
+        "name": "BYU Television",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 271173, "imdb": "tt2445666" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/250/625652.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/250/625652.jpg"
+      },
+      "summary": "<p>One of BYUtv's most popular original series, the sketch-comedy show <b>Studio C</b>, brings you memorable characters like Scott Sterling, the Bisque Man, and the Awkward Avoidance Viking. Join the cast--including Whitney Call, Mallory Everton, Jason Gray, and Matt Meese--to enjoy more hilarious sketches and characters.</p>",
+      "updated": 1648106898,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/6923" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2289850"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2289851" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2289851" } }
+  },
+  {
+    "id": 2291111,
+    "url": "https://www.tvmaze.com/episodes/2291111/summer-house-6x10-thats-not-amore",
+    "name": "That's Not Amore!",
+    "season": 6,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 23583,
+      "url": "https://www.tvmaze.com/shows/23583/summer-house",
+      "name": "Summer House",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2017-01-09",
+      "ended": null,
+      "officialSite": "http://www.bravotv.com/summer-house",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 5.2 },
+      "weight": 94,
+      "network": {
+        "id": 52,
+        "name": "Bravo",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 321121, "imdb": "tt6645582" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/389/973805.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/389/973805.jpg"
+      },
+      "summary": "<p>When a group of beautiful and successful New Yorkers leaves the comforts of the Big Apple behind to party the summer away in their home away from home, nothing is off limits. Bravo's new series<b> Summer House</b> takes the beach town of Montauk, New York by storm, while following a group of nine friends who make the exclusive enclave their go-to party spot between Memorial Day and Labor Day — that is, when they're not hustling at their day jobs. You could say they work hard and party way harder.</p>",
+      "updated": 1648373042,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/23583" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2288176"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2291111" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2291111" } }
+  },
+  {
+    "id": 2291541,
+    "url": "https://www.tvmaze.com/episodes/2291541/rock-the-block-3x05-exterior-showdown",
+    "name": "Exterior Showdown",
+    "season": 3,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 44651,
+      "url": "https://www.tvmaze.com/shows/44651/rock-the-block",
+      "name": "Rock the Block",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["DIY"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2019-10-21",
+      "ended": null,
+      "officialSite": "https://www.hgtv.com/shows/rock-the-block",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 89,
+      "network": {
+        "id": 192,
+        "name": "HGTV",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 369775, "imdb": "tt10183798" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/217/542599.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/217/542599.jpg"
+      },
+      "summary": "<p>Prepare for the ultimate showdown between the fiercest women in the home renovation and design business in <b>Rock the Block</b>. With only four weeks and $175,000 each, HGTV stars Leanne Ford, Mina Starsiak Hawk, Jasmine Roth, and Alison Victoria will face-off to max-out identical properties in the Los Angeles area--with the goal to add the most property value to each home.</p>",
+      "updated": 1646852807,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/44651" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2291540"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2291541" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2291541" } }
+  },
+  {
+    "id": 2293241,
+    "url": "https://www.tvmaze.com/episodes/2293241/all-american-homecoming-1x06-family-affair",
+    "name": "Family Affair",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 53247,
+      "url": "https://www.tvmaze.com/shows/53247/all-american-homecoming",
+      "name": "All American: Homecoming",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Sports"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-02-21",
+      "ended": null,
+      "officialSite": "https://www.cwtv.com/shows/all-american-homecoming/start-over/?play=eff14bfe-daa2-4bd2-9711-e7d537b09c36",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 1.6 },
+      "weight": 96,
+      "network": {
+        "id": 5,
+        "name": "The CW",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cwtv.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 396645, "imdb": "tt14088994" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1003372.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1003372.jpg"
+      },
+      "summary": "<p><b>All American: Homecoming</b> follows a young tennis hopeful from Beverly Hills and an elite baseball player from Chicago as they contend with the high stakes of college sports, while also navigating the highs, lows and sexiness of unsupervised early adulthood at a prestigious Historically Black College.</p>",
+      "updated": 1648406170,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/53247" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2273824"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2293241" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2293241" } }
+  },
+  {
+    "id": 2294034,
+    "url": "https://www.tvmaze.com/episodes/2294034/the-julia-child-challenge-1x03-an-american-chef-in-paris",
+    "name": "An American Chef in Paris",
+    "season": 1,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": null,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 60581,
+      "url": "https://www.tvmaze.com/shows/60581/the-julia-child-challenge",
+      "name": "The Julia Child Challenge",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Food"],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2022-03-14",
+      "ended": null,
+      "officialSite": null,
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 90,
+      "network": {
+        "id": 81,
+        "name": "Food Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/399/998703.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/399/998703.jpg"
+      },
+      "summary": "<p>The competitors, all Julia Child superfans, share personal stories about their hero, cook in a kitchen recreated in the likeness of where Julia herself cooked, using the same ingredients Julia used and are even guided by Julia herself, through a larger-than-life television screen right in the middle of all the action. Head judgeAntonia Lofaso and a rotating panel of guest judges including Molly Baz, Cliff Crooks<b> </b>and Brooke Williamsonultimately decide who wins the life-changing grand prize that literally follows in Julia's footsteps: an all-expense paid three-month cooking course at Le Cordon Bleu.</p><p>Working in conjunction with The Julia Child Foundation for Gastronomy and the Culinary Arts to ensure this series reflects Julia's incredible talent and heart, each episode features two rounds of competitive cooking: the first-round masters the basics and challenges the competitors to recreate one of Julia's signature<b> </b>dishes, with some guidance from Julia herself, as seen on a giant television screen in the middle of the action.  Round two is an ode to Julia, where competitors must take inspiration from Julia to create a unique dish reflecting their own culinary point of view. Round two dishes are served family-style, with competitors and judges sampling each dish and sharing stories about their food and personal connection to Julia. Based on performance, the judges name one winner and send one competitor home each week, until the last cook standing is awarded the ultimate grand prize.</p>",
+      "updated": 1648281587,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/60581" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2287310"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2294034" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2294034" } }
+  },
+  {
+    "id": 2294603,
+    "url": "https://www.tvmaze.com/episodes/2294603/secrets-of-playboy-1x11-behind-the-girls-next-door",
+    "name": "Behind the Girls Next Door",
+    "season": 1,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Former girlfriends of Hugh Hefner Karissa and Kristina Shannon, discuss their experience with Hefner and the hit television series \"The Girls Next Door,\" which introduced a new generation to Hefner and the Playboy lifestyle. Telling their emotional story for the first time, Karissa and Kristina reveal that beneath the sugar-coated exterior was a darker world led by Hefner with increasingly stricter rules designed to control the women in order to maintain the Playboy image.</p>",
+    "show": {
+      "id": 57296,
+      "url": "https://www.tvmaze.com/shows/57296/secrets-of-playboy",
+      "name": "Secrets of Playboy",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 42,
+      "averageRuntime": 60,
+      "premiered": "2022-01-24",
+      "ended": null,
+      "officialSite": "https://www.aetv.com/shows/secrets-of-playboy",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 96,
+      "network": {
+        "id": 29,
+        "name": "A&E",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 413259, "imdb": "tt15250706" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/389/974587.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/389/974587.jpg"
+      },
+      "summary": "<p>The documentary event <b>Secrets of Playboy</b> explores the hidden truths behind the fable and philosophy of the Playboy empire through a modern-day lens. The series delves into the complex world Hugh Hefner created and examines its far-reaching consequences on our culture's view of power and sexuality.</p>",
+      "updated": 1647386388,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/57296" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2290064"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2294603" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2294603" } }
+  },
+  {
+    "id": 2295003,
+    "url": "https://www.tvmaze.com/episodes/2295003/historys-greatest-mysteries-3x06-the-holy-grail",
+    "name": "The Holy Grail",
+    "season": 3,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 62,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>It's a treasure coveted by everyone from Roman Emperors to Adolf Hitler--a sacred object said to hold incredible powers of healing, resurrection and immortality. It may be the world's most sought-after relic, but what is the Holy Grail? And if it exists, can it ever be found?</p>",
+    "show": {
+      "id": 51121,
+      "url": "https://www.tvmaze.com/shows/51121/historys-greatest-mysteries",
+      "name": "History's Greatest Mysteries",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Mystery", "History"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 102,
+      "premiered": "2020-11-14",
+      "ended": null,
+      "officialSite": "https://www.history.com/shows/historys-greatest-mysteries",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 6.9 },
+      "weight": 97,
+      "network": {
+        "id": 53,
+        "name": "History",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 391706, "imdb": "tt11947238" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/283/707557.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/283/707557.jpg"
+      },
+      "summary": "<p><b>History's Greatest Mysteries</b> will investigate a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Each program within the franchise will showcase fresh, new evidence and perspectives including never-before-released documents to the general public, personal diaries and DNA evidence to unearth brand-new information about these infamous and enigmatic chapters in history.</p>",
+      "updated": 1647303256,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/51121" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2295002"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2295003" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2295003" } }
+  },
+  {
+    "id": 2295515,
+    "url": "https://www.tvmaze.com/episodes/2295515/where-murder-lies-2x03-family-lies",
+    "name": "Family Lies",
+    "season": 2,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>An unthinkable crime cuts short a family man's quest for a better life in Florida. To find the culprit, detectives must unravel a deadly web of deception woven long before the killer ever took aim.</p>",
+    "show": {
+      "id": 53877,
+      "url": "https://www.tvmaze.com/shows/53877/where-murder-lies",
+      "name": "Where Murder Lies",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Crime"],
+      "status": "To Be Determined",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2021-02-16",
+      "ended": null,
+      "officialSite": "https://www.discoveryplus.com/show/where-murder-lies",
+      "schedule": { "time": "", "days": [] },
+      "rating": { "average": null },
+      "weight": 92,
+      "network": null,
+      "webChannel": {
+        "id": 436,
+        "name": "discovery+",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 397331, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/298/746460.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/298/746460.jpg"
+      },
+      "summary": "<p>Everyone is hiding something. It may be a harmless secret, or it might be something far more serious: a terrible betrayal of trust or a shocking indiscretion. Some of these come out over time, while others stay hidden forever. But sometimes, an event is so horrific, so cataclysmic, that everyone's truths are laid bare. <b>Where Murder Lies</b> gradually exposes murder investigations one truth after another, revealing the sinister underbelly beneath seemingly placid communities.</p>",
+      "updated": 1647763156,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/53877" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2295514"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2295515" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2295515" } }
+  },
+  {
+    "id": 2297331,
+    "url": "https://www.tvmaze.com/episodes/2297331/the-rachel-maddow-show-2022-03-28-episode-60",
+    "name": "Episode 60",
+    "season": 2022,
+    "number": 60,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 9065,
+      "url": "https://www.tvmaze.com/shows/9065/the-rachel-maddow-show",
+      "name": "The Rachel Maddow Show",
+      "type": "News",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2008-09-08",
+      "ended": null,
+      "officialSite": "http://www.msnbc.com/rachel-maddow-show",
+      "schedule": {
+        "time": "21:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 4.5 },
+      "weight": 92,
+      "network": {
+        "id": 201,
+        "name": "MSNBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 181561, "imdb": "tt1280627" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/80181.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/80181.jpg"
+      },
+      "summary": "<p>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show <b>The Rachel Maddow Show</b>. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</p>",
+      "updated": 1648191655,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/9065" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297330"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2297331" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2297331" } }
+  },
+  {
+    "id": 2298013,
+    "url": "https://www.tvmaze.com/episodes/2298013/fatal-attraction-12x10-death-in-the-desert",
+    "name": "Death in the Desert",
+    "season": 12,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 4887,
+      "url": "https://www.tvmaze.com/shows/4887/fatal-attraction",
+      "name": "Fatal Attraction",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Drama", "Crime", "Thriller"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2013-06-03",
+      "ended": null,
+      "officialSite": "http://tvone.tv/category/shows/fatal-attraction/",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 7 },
+      "weight": 91,
+      "network": {
+        "id": 224,
+        "name": "TV One",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 35863, "thetvdb": 291696, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/21/53500.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/21/53500.jpg"
+      },
+      "summary": "<p>Each pulse-pounding hour-long episode of <b>Fatal Attraction</b> centers around an incredible and dangerous romance. Shocking crime, kidnapping or even murder is only half of the story! In the end, the \"true love\" that draws these couples together isn't the kind that celebrates silver anniversaries – instead it leads to cross-country manhunts, bizarre cover-ups and dramatic trials. Driven by powerful, real-life stories, Fatal Attraction weaves together intimate, first-person interviews, exclusive interrogation footage and rare archival material. Along the way, it gives you a glimpse into the dark heart of a dangerous romance. Listen as the key players, family of the survivors and those that investigated the horrific crimes reveal the secrets to each sordid tale. Fatal Attraction…because love doesn't just hurt. It can kill!</p>",
+      "updated": 1647671873,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/4887" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294161"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298013" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298013" } }
+  },
+  {
+    "id": 2298252,
+    "url": "https://www.tvmaze.com/episodes/2298252/black-ink-crew-compton-2x06-the-compton-ultimatum",
+    "name": "The Compton Ultimatum",
+    "season": 2,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:00",
+    "airstamp": "2022-03-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 42779,
+      "url": "https://www.tvmaze.com/shows/42779/black-ink-crew-compton",
+      "name": "Black Ink Crew Compton",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2019-08-14",
+      "ended": null,
+      "officialSite": "http://www.vh1.com/shows/black-ink-crew-compton",
+      "schedule": { "time": "22:00", "days": ["Wednesday"] },
+      "rating": { "average": 1.7 },
+      "weight": 83,
+      "network": {
+        "id": 55,
+        "name": "VH1",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 366832, "imdb": "tt10590068" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/213/532681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/213/532681.jpg"
+      },
+      "summary": "<p><b>Black Ink Crew Compton</b> follows Danny \"KP\" Kirkpatrick and his crew at 'IAMCompton,' the first-ever tattoo shop in Compton. Compton, known for its musical influence and iconic street art, is an artistic melting-pot ready for the newest tat crew to share their talent.</p>",
+      "updated": 1647706397,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/42779" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294087"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298252" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298252" } }
+  },
+  {
+    "id": 2291199,
+    "url": "https://www.tvmaze.com/episodes/2291199/9-1-1-lone-star-3x12-negative-space",
+    "name": "Negative Space",
+    "season": 3,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "21:01",
+    "airstamp": "2022-03-29T01:01:00+00:00",
+    "runtime": 59,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Owen fears the past is back to haunt him when a stalker targets him and Catherine. Meanwhile, Tommy and Gillian face consequences when Gillian saves the life of a woman wearing a \"Do Not Resuscitate\" bracelet.</p>",
+    "show": {
+      "id": 42164,
+      "url": "https://www.tvmaze.com/shows/42164/9-1-1-lone-star",
+      "name": "9-1-1: Lone Star",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Action", "Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2020-01-19",
+      "ended": null,
+      "officialSite": "https://www.fox.com/9-1-1-lone-star/",
+      "schedule": { "time": "21:00", "days": ["Monday"] },
+      "rating": { "average": 6.6 },
+      "weight": 100,
+      "network": {
+        "id": 4,
+        "name": "FOX",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.fox.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 364080, "imdb": "tt10323338" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/376/940578.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/376/940578.jpg"
+      },
+      "summary": "<p><b>9-1-1: Lone Star</b> follows a sophisticated New York firefighter who, along with his son, relocates to Austin, and must try to balance saving those who are at their most vulnerable with solving the problems in his own life.</p>",
+      "updated": 1648443167,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/42164" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2288394"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2291199" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2291199" } }
+  },
+  {
+    "id": 2221247,
+    "url": "https://www.tvmaze.com/episodes/2221247/independent-lens-23x11-writing-with-fire",
+    "name": "Writing With Fire",
+    "season": 23,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 90,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 3692,
+      "url": "https://www.tvmaze.com/shows/3692/independent-lens",
+      "name": "Independent Lens",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 90,
+      "averageRuntime": 67,
+      "premiered": "1999-08-09",
+      "ended": null,
+      "officialSite": "http://www.pbs.org/independentlens/",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": 7.8 },
+      "weight": 83,
+      "network": {
+        "id": 85,
+        "name": "PBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 17675, "thetvdb": 84082, "imdb": "tt0486531" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/18/47448.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/18/47448.jpg"
+      },
+      "summary": "<p><b>Independent Lens</b> is an anthology of independent documentary films.</p>",
+      "updated": 1647685692,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/3692" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2221246"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2221247" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2221247" } }
+  },
+  {
+    "id": 2274943,
+    "url": "https://www.tvmaze.com/episodes/2274943/ncis-hawaii-1x18-tnt",
+    "name": "T'N'T",
+    "season": 1,
+    "number": 18,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>NCIS Agents Nick Torres and Jessica Knight travel to Hawai'i when they learn a key witness in one of their old cases has turned up there with crucial evidence.</p>",
+    "show": {
+      "id": 53629,
+      "url": "https://www.tvmaze.com/shows/53629/ncis-hawaii",
+      "name": "NCIS: Hawai'i",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Action", "Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2021-09-20",
+      "ended": null,
+      "officialSite": "https://www.cbs.com/shows/ncis-hawaii/",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": 7.5 },
+      "weight": 99,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 401630, "imdb": "tt14218674" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/368/922168.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/368/922168.jpg"
+      },
+      "summary": "<p><b>NCIS: Hawai'i</b> is set in the Aloha State. It follows Jane Tennant, the first female Special Agent in Charge of NCIS Pearl Harbor, and her team as they balance duty to family and country, investigating high-stakes crimes involving military personnel, national security and the mysteries of the island itself.</p>",
+      "updated": 1648168963,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/53629" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2274942"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2274943" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2274943" } }
+  },
+  {
+    "id": 2280554,
+    "url": "https://www.tvmaze.com/episodes/2280554/better-things-5x06-san-francisco",
+    "name": "San Francisco",
+    "season": 5,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 40,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Sam goes to San Francisco for a job while Max holds down the fort. </p>",
+    "show": {
+      "id": 6514,
+      "url": "https://www.tvmaze.com/shows/6514/better-things",
+      "name": "Better Things",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Comedy", "Family"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 33,
+      "premiered": "2016-09-08",
+      "ended": null,
+      "officialSite": "https://www.fxnetworks.com/shows/better-things",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": 6.7 },
+      "weight": 99,
+      "network": {
+        "id": 13,
+        "name": "FX",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 313270, "imdb": "tt4370596" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/997125.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/997125.jpg"
+      },
+      "summary": "<p><b>Better Things</b> is a semi-autobiographical vehicle for Pamela Adlon similar to the way \"Louie\" is for CK. It centers on Sam, a working actor with no filter trying to earn a living, navigate her daughters' lives, have fun with a friend or two and also — just maybe — squeeze in some private time once in a while.</p>",
+      "updated": 1648443196,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/6514" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2280553"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2280554" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2280554" } }
+  },
+  {
+    "id": 2286702,
+    "url": "https://www.tvmaze.com/episodes/2286702/easter-basket-challenge-2x05-easter-easter-dinner-dupe",
+    "name": "Easter: Easter Dinner Dupe",
+    "season": 2,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>It's the semi-finals, and host Sunny Anderson challenges the four remaining bakers to take on one of the biggest trends in food: the over-the-top charcuterie board! But instead of being filled with meats, their dessert boards must be filled with Easter treats! Then, the competitors fight for a seat at the Easter dinner table and try to fool the judges with hyper-realistic Easter dinner cakes that look exactly like classic Easter dinner dishes. The bakers that fool judges Jordan Andino and Stephanie Boswell get to move on to compete in the finale.</p>",
+    "show": {
+      "id": 54132,
+      "url": "https://www.tvmaze.com/shows/54132/easter-basket-challenge",
+      "name": "Easter Basket Challenge",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Food"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2021-03-01",
+      "ended": null,
+      "officialSite": "https://www.foodnetwork.com/",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 82,
+      "network": {
+        "id": 81,
+        "name": "Food Network",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 397755, "imdb": "tt14125784" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/300/750214.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/300/750214.jpg"
+      },
+      "summary": "<p>Host Sunny Anderson challenges seven talented bakers to make over-the-top edible displays inspired by nostalgic Easter candy and outrageous Easter themes. In the end, only one baker will claim the grand prize: a golden Easter egg filled with $25,000.</p>",
+      "updated": 1646150457,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/54132" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2286694"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2286702" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2286702" } }
+  },
+  {
+    "id": 2290347,
+    "url": "https://www.tvmaze.com/episodes/2290347/the-endgame-1x06-judge-jury-and-executioner",
+    "name": "Judge, Jury and Executioner",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>An inmate on a quest for redemption escapes prison. Doak comes up with a plan to take back one of the banks.</p>",
+    "show": {
+      "id": 57798,
+      "url": "https://www.tvmaze.com/shows/57798/the-endgame",
+      "name": "The Endgame",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Crime", "Thriller"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-02-21",
+      "ended": null,
+      "officialSite": "https://www.nbc.com/the-endgame",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": 6.5 },
+      "weight": 99,
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 410357, "imdb": "tt14507354" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/394/986259.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/394/986259.jpg"
+      },
+      "summary": "<p>A \"high-stakes thriller,\" following Elena Federova, a \"very recently captured\" international arms dealer and criminal mastermind who can orchestrate many complicated and coordinated bank heists, even while in captivity, and Val Turner, the \"principled, relentless and socially-outcast\" FBI agent who will stop at nothing to foil Elena's plan.</p>",
+      "updated": 1648344016,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/57798" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2290346"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2290347" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2290347" } }
+  },
+  {
+    "id": 2294033,
+    "url": "https://www.tvmaze.com/episodes/2294033/secrets-of-the-chippendales-murders-1x03-the-show-must-go-on",
+    "name": "The Show Must Go On",
+    "season": 1,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 60859,
+      "url": "https://www.tvmaze.com/shows/60859/secrets-of-the-chippendales-murders",
+      "name": "Secrets of the Chippendales Murders",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-03-14",
+      "ended": null,
+      "officialSite": null,
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 89,
+      "network": {
+        "id": 29,
+        "name": "A&E",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": "tt18271846" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/997016.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/997016.jpg"
+      },
+      "summary": "<p>It shows what happened behind the scenes of Chippendales, beyond the bright lights into a dark world of drugs, arson, a love triangle, and a murder.</p><p> </p>",
+      "updated": 1647417071,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/60859" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294032"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2294033" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2294033" } }
+  },
+  {
+    "id": 2297336,
+    "url": "https://www.tvmaze.com/episodes/2297336/the-last-word-with-lawrence-odonnell-2022-03-28-episode-60",
+    "name": "Episode 60",
+    "season": 2022,
+    "number": 60,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 9312,
+      "url": "https://www.tvmaze.com/shows/9312/the-last-word-with-lawrence-odonnell",
+      "name": "The Last Word with Lawrence O'Donnell",
+      "type": "News",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2010-09-27",
+      "ended": null,
+      "officialSite": "http://www.msnbc.com/the-last-word",
+      "schedule": {
+        "time": "22:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 7.5 },
+      "weight": 87,
+      "network": {
+        "id": 201,
+        "name": "MSNBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 282641, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/81921.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/81921.jpg"
+      },
+      "summary": "<p>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on <b>The Last Word with Lawrence O'Donnell</b>.</p>",
+      "updated": 1648191687,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/9312" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297335"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2297336" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2297336" } }
+  },
+  {
+    "id": 2298315,
+    "url": "https://www.tvmaze.com/episodes/2298315/1000-lb-best-friends-1x08-ride-or-die-from-jr-high",
+    "name": "Ride or Die From Jr. High",
+    "season": 1,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Vannessa works to repair the fractured relationship with her sister before going under the knife. Tina weighs in with Dr. Procter to see if she still needs surgery. Also, Meghan has an eventful encounter with an ex at her high school reunion.</p>",
+    "show": {
+      "id": 60039,
+      "url": "https://www.tvmaze.com/shows/60039/1000-lb-best-friends",
+      "name": "1000-lb Best Friends",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-02-07",
+      "ended": null,
+      "officialSite": "https://go.tlc.com/show/1000-lb-best-friends-tlc-atve-us",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 85,
+      "network": {
+        "id": 80,
+        "name": "TLC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 414839, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/393/984958.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/393/984958.jpg"
+      },
+      "summary": "<p>After kicking off their weight loss journey on the Discovery+ show <i>Too Large</i>, the longtime pals will continue to document the trials and tribulations of making a total lifestyle change in a new TLC show, <b>1000-lb. Best Friends</b>.</p>",
+      "updated": 1647717630,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/60039" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2298314"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298315" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298315" } }
+  },
+  {
+    "id": 2298640,
+    "url": "https://www.tvmaze.com/episodes/2298640/caught-in-the-net-1x03-one-last-post",
+    "name": "One Last Post",
+    "season": 1,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:00",
+    "airstamp": "2022-03-29T02:00:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 61057,
+      "url": "https://www.tvmaze.com/shows/61057/caught-in-the-net",
+      "name": "Caught in the Net",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Crime"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-03-14",
+      "ended": null,
+      "officialSite": "https://www.investigationdiscovery.com/show/caught-in-the-net-investigation-discovery-atve-us",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 87,
+      "network": {
+        "id": 89,
+        "name": "Investigation Discovery",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 417811, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/400/1000700.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/400/1000700.jpg"
+      },
+      "summary": "<p>What happens when the clues to a murder aren't just physical, but digital? Caught in the Net presents gripping true stories of investigators entering the digital world to solve a brutal murder. In each case, detectives are up against a lack of physical clues. But every time anyone goes online, whether it's chat rooms, cellphone apps, car GPS or fitness trackers, they leave a digital trail behind them. Now investigators must enter this virtual world and follow the data - as they race against time to secure justice for victims' families and track down the killer.</p>",
+      "updated": 1647765013,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/61057" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2295456"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298640" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298640" } }
+  },
+  {
+    "id": 2293207,
+    "url": "https://www.tvmaze.com/episodes/2293207/the-good-doctor-5x12-dry-spell",
+    "name": "Dry Spell",
+    "season": 5,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:01",
+    "airstamp": "2022-03-29T02:01:00+00:00",
+    "runtime": 59,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Drs. Lim, Park and Wolke treat a woman with Valley fever and discover a secret she has been hiding from her fiancé. Meanwhile, Drs. Murphy, Allen and Andrews treat a 45-year-old virgin and help her make a big decision about her life.</p>",
+    "show": {
+      "id": 21845,
+      "url": "https://www.tvmaze.com/shows/21845/the-good-doctor",
+      "name": "The Good Doctor",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Drama", "Medical"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2017-09-25",
+      "ended": null,
+      "officialSite": "https://abc.com/shows/the-good-doctor",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": 7.7 },
+      "weight": 100,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 328634, "imdb": "tt6470478" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/898260.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/898260.jpg"
+      },
+      "summary": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Alone in the world and unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "updated": 1648443118,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/21845" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2288723"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2293207" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2293207" } }
+  },
+  {
+    "id": 2275446,
+    "url": "https://www.tvmaze.com/episodes/2275446/i-was-there-1x07-lincolns-assassination",
+    "name": "Lincoln's Assassination",
+    "season": 1,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "22:02",
+    "airstamp": "2022-03-29T02:02:00+00:00",
+    "runtime": 31,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Theo Wilson time travels to 1865 and immerses himself in the events that lead John Wilkes Booth to hatch a plan to kill President Abraham Lincoln. Wilson uncovers a series of surprising moments, from a sibling rivalry to Booth's first encounter with Lincoln, which sharpened Booth's hatred for the president and led to him to murder Lincoln just when the United States of America needed the 16th President most. Featuring insights from leading historians.</p>",
+    "show": {
+      "id": 60376,
+      "url": "https://www.tvmaze.com/shows/60376/i-was-there",
+      "name": "I Was There",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2022-02-20",
+      "ended": null,
+      "officialSite": "https://www.history.com/shows/i-was-there",
+      "schedule": { "time": "22:00", "days": ["Monday"] },
+      "rating": { "average": null },
+      "weight": 93,
+      "network": {
+        "id": 53,
+        "name": "History",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/396/992492.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/992492.jpg"
+      },
+      "summary": "<p>Through original archival material, expert testimony and dramatic re-creations using CGI technology to place Theo E.J. Wilson in the scene, each episode challenges ideas of what really happened during some of the most pivotal moments in history.</p><p>This season explores Abraham Lincoln's assassination; the Hindenburg disaster; the Salem witch trials; the death of Jesse James; the Oklahoma City bombing; the battle of Stalingrad; H.H. Holmes' murder spree during the 1893 Chicago World's Fair; the Chernobyl accident; the 1965 Bloody Sunday march from Selma to Montgomery; the 1986 space shuttle Challenger disaster; the 1889 catastrophic Johnstown flood in eastern Pennsylvania and the St. Valentine's Day massacre.</p>",
+      "updated": 1647417022,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/60376" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2275445"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2275446" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2275446" } }
+  },
+  {
+    "id": 2298247,
+    "url": "https://www.tvmaze.com/episodes/2298247/nightly-pop-1x355-032822",
+    "name": "032822",
+    "season": 1,
+    "number": 355,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "23:00",
+    "airstamp": "2022-03-29T03:00:00+00:00",
+    "runtime": 30,
+    "rating": { "average": null },
+    "image": null,
+    "summary": null,
+    "show": {
+      "id": 40681,
+      "url": "https://www.tvmaze.com/shows/40681/nightly-pop",
+      "name": "Nightly Pop",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2018-10-29",
+      "ended": null,
+      "officialSite": "https://www.eonline.com/shows/nightly_pop",
+      "schedule": {
+        "time": "23:30",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      "rating": { "average": null },
+      "weight": 60,
+      "network": {
+        "id": 43,
+        "name": "E!",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 355742, "imdb": "tt9165176" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/240/601755.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/240/601755.jpg"
+      },
+      "summary": "<p>Hollywood, we are coming for you! Morgan Stewart, Hunter March and Nina Parker dive into the week's wildest takedown of pop culture's juiciest stories on Nightly Pop. Unfiltered, unexpected, and always outrageous. Monday nights will never be the same again!</p>",
+      "updated": 1648373058,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/40681" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2294392"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2298247" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2298247" } }
+  },
+  {
+    "id": 2299807,
+    "url": "https://www.tvmaze.com/episodes/2299807/the-tonight-show-starring-jimmy-fallon-2022-03-28-john-oliver-lana-condor-buddy-ft-blxst",
+    "name": "John Oliver, Lana Condor, Buddy Ft. Blxst",
+    "season": 2022,
+    "number": 50,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "23:35",
+    "airstamp": "2022-03-29T03:35:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Guests include John Oliver, Lana Condor and musical guest Buddy Ft. Blxst. </p>",
+    "show": {
+      "id": 718,
+      "url": "https://www.tvmaze.com/shows/718/the-tonight-show-starring-jimmy-fallon",
+      "name": "The Tonight Show Starring Jimmy Fallon",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2014-02-17",
+      "ended": null,
+      "officialSite": "http://www.nbc.com/the-tonight-show",
+      "schedule": {
+        "time": "23:35",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 4.4 },
+      "weight": 98,
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 35853, "thetvdb": 270261, "imdb": "tt3444938" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/367/919708.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/367/919708.jpg"
+      },
+      "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
+      "updated": 1648279681,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/718" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297955"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2299807" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2299807" } }
+  },
+  {
+    "id": 2301667,
+    "url": "https://www.tvmaze.com/episodes/2301667/jimmy-kimmel-live-2022-03-28-david-duchovny-simone-ashley-del-amitri",
+    "name": "David Duchovny, Simone Ashley, Del Amitri",
+    "season": 2022,
+    "number": 41,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "23:35",
+    "airstamp": "2022-03-29T03:35:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>1. David Duchovny (\"The Bubble\") <br />2. Simone Ashley (\"Bridgerton\") <br />3. Musical Guests Del Amitri</p>",
+    "show": {
+      "id": 1388,
+      "url": "https://www.tvmaze.com/shows/1388/jimmy-kimmel-live",
+      "name": "Jimmy Kimmel Live",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 59,
+      "premiered": "2003-01-26",
+      "ended": null,
+      "officialSite": "http://abc.go.com/shows/jimmy-kimmel-live/",
+      "schedule": {
+        "time": "23:35",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      "rating": { "average": 4.4 },
+      "weight": 97,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 4055, "thetvdb": 71998, "imdb": "tt0320037" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/898270.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/898270.jpg"
+      },
+      "summary": "<p><b>Jimmy Kimmel Live</b> features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</p>",
+      "updated": 1648279938,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/1388" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2297926"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2301667" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2301667" } }
+  },
+  {
+    "id": 2286278,
+    "url": "https://www.tvmaze.com/episodes/2286278/robot-chicken-11x18-may-cause-internal-diarrhea",
+    "name": "May Cause Internal Diarrhea",
+    "season": 11,
+    "number": 18,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "00:00",
+    "airstamp": "2022-03-29T04:00:00+00:00",
+    "runtime": 15,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Robot Chicken helps Dexter bring his robot mother to market but buyers go off-label; the Itsy Bitsy Spider doesn't know what the hell he's doing; visiting the land of Disney's dead parents.</p>",
+    "show": {
+      "id": 686,
+      "url": "https://www.tvmaze.com/shows/686/robot-chicken",
+      "name": "Robot Chicken",
+      "type": "Animation",
+      "language": "English",
+      "genres": ["Comedy", "Science-Fiction"],
+      "status": "Running",
+      "runtime": 15,
+      "averageRuntime": 15,
+      "premiered": "2005-02-20",
+      "ended": null,
+      "officialSite": "http://www.adultswim.com/videos/robot-chicken/",
+      "schedule": {
+        "time": "00:00",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      "rating": { "average": 8 },
+      "weight": 99,
+      "network": {
+        "id": 10,
+        "name": "Adult Swim",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 5027, "thetvdb": 75734, "imdb": "tt0437745" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14886.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14886.jpg"
+      },
+      "summary": "<p><b>Robot Chicken</b> uses stop-motion animation to bring pop-culture parodies to life in a modern take on the variety/sketch show format.</p>",
+      "updated": 1648422531,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/686" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2286277"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2286278" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2286278" } }
+  },
+  {
+    "id": 2299820,
+    "url": "https://www.tvmaze.com/episodes/2299820/late-night-with-seth-meyers-2022-03-28-mariska-hargitay-christopher-meloni-maren-morris-brooke-colucci",
+    "name": "Mariska Hargitay & Christopher Meloni, Maren Morris, Brooke Colucci",
+    "season": 2022,
+    "number": 33,
+    "type": "regular",
+    "airdate": "2022-03-28",
+    "airtime": "00:35",
+    "airstamp": "2022-03-29T04:35:00+00:00",
+    "runtime": 60,
+    "rating": { "average": null },
+    "image": null,
+    "summary": "<p>Guests Mariska Hargitay &amp; Christopher Meloni (<i>Law &amp; Order: SVU </i>and <i>Law &amp; Order: Organized Crime</i>), Maren Morris and musical guest Maren Morris (Performance: \"Background Music,\" Album: <i>Humble Quest</i>). Brooke Colucci sits in with the 8G Band.</p>",
+    "show": {
+      "id": 363,
+      "url": "https://www.tvmaze.com/shows/363/late-night-with-seth-meyers",
+      "name": "Late Night with Seth Meyers",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2014-02-24",
+      "ended": null,
+      "officialSite": "https://www.nbc.com/late-night-with-seth-meyers",
+      "schedule": {
+        "time": "00:35",
+        "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+      },
+      "rating": { "average": 4.4 },
+      "weight": 97,
+      "network": {
+        "id": 1,
+        "name": "NBC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.nbc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 35852, "thetvdb": 270262, "imdb": "tt3513388" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/206/515186.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/206/515186.jpg"
+      },
+      "summary": "<p>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's <b>Late Night</b> — home to A-list celebrity guests, memorable comedy and the best in musical talent.</p><p>As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to The Tonight Show.</p>",
+      "updated": 1648151005,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/363" },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2293480"
+        },
+        "nextepisode": { "href": "https://api.tvmaze.com/episodes/2299820" }
+      }
+    },
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2299820" } }
+  }
+]
