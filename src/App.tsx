@@ -29,9 +29,18 @@ class App extends React.Component<any, State> {
   }
 
   render() {
-    const { items } = this.state;
+    const { items, DataLoaded } = this.state;
+
+    if (!DataLoaded)
+      return (
+        <div>
+          <h1> Loading... </h1>{" "}
+        </div>
+      );
+
     return (
       <>
+        <Header></Header>
         <Grid container spacing={2}>
           {items.map((item) => (
             <Grid item xs={2} md={4}>

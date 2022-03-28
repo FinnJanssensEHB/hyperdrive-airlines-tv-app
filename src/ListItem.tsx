@@ -11,18 +11,20 @@ function ListItem(props: any) {
       <Box sx={{ display: "flex", flexDirection: "column" }}>
         <CardContent sx={{ flex: "1 0 auto" }}>
           <Typography component="div" variant="h5">
-            {props.item.name}
+            {props.item.show.name}
           </Typography>
           <Typography
             variant="subtitle1"
             color="text.secondary"
             component="div"
           >
-            {props.item.show.name}
+            {props.item.name}
           </Typography>
           <Typography variant="body1">
-            Four little dinos and one BIG Gigantosaurus… learn to dare! Rocky,
-            Bill, Tiny, and Mazu are four young...
+            {props.item.show.summary
+              .replace(/<\/?[^>]+(>|$)/g, "")
+              .slice(0, 100)
+              .concat("...")}
           </Typography>
           <Typography
             variant="subtitle2"
