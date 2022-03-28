@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "./Header";
-import ListItem from "./ListItem";
-import Grid from "@mui/material/Grid";
+import ShowList from "./ShowList";
 
 import "./App.css";
 
@@ -41,19 +40,8 @@ class App extends React.Component<any, State> {
     return (
       <>
         <Header></Header>
-        <Grid container spacing={2}>
-          {items.map((item) => (
-            <Grid item xs={2} md={4}>
-              <ListItem item={item} />
-            </Grid>
-          ))}
-        </Grid>
+        <ShowList items={items}></ShowList>
       </>
-      // <div>
-      //   {items.map((item) => (
-      //     <ListItem item={item} />
-      //   ))}
-      // </div>
     );
   }
 }
