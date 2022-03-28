@@ -1,0 +1,33 @@
+.main-header {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #29335c;
+  color: #fff4ec;
+}
+
+.header-logo > img {
+  object-fit: cover;
+  width: 40%;
+  margin-left: 3em;
+}
+
+.header-search > input {
+  font-family: cartograph-cf, monospace;
+  border: none;
+  border-radius: 15px;
+  padding: 0.5em;
+}
+
+.header-nav {
+  display: flex;
+  flex-direction: row;
+  margin-right: 3em;
+}
+
+.header-nav > p {
+  margin-right: 3em;
+  font-weight: 700;
+}
