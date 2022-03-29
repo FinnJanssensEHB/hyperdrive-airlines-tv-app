@@ -19,5 +19,20 @@
 }
 
 .text-container {
-  max-width: 50%;
+  margin-right: 1em;
+  position: relative;
+}
+
+.c-list-item h2,
+.c-list-item h3,
+.c-list-item p {
+  padding: 0.4em 0;
+}
+
+.c-list-item h2 {
+  position: absolute;
+  top: -30px;
+  left: -20px;
+  background-color: $black;
+  padding: 0 20px;
 }

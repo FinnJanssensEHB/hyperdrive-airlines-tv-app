@@ -7,7 +7,7 @@ function Detail(props: any) {
   useEffect(() => {
     var img = new Image();
     img.onload = function () {
-      eightBit(document.getElementById(props.item.id + "canvas"), img, 20);
+      eightBit(document.getElementById(props.item.id + "canvas"), img, 8);
     };
     img.src = props.item.show.image.medium;
   }, [props.item]);
@@ -23,10 +23,11 @@ function Detail(props: any) {
             .slice(0, 500)
             .concat("...")}
         </p>
-        <b> {props.item.show.type}</b>
+        <p className="show-type"> {props.item.show.type}</p>
       </div>
       <div>
         <canvas id={props.item.id + "canvas"}></canvas>
+        <p>{props.item.airtime}</p>
       </div>
       {/* <img id={props.item.id} src={props.item.show.image.medium} alt="" /> */}
     </div>

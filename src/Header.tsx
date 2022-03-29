@@ -20,7 +20,6 @@ function Header() {
         <h3>{time}</h3>
       </div>
       <h1>AIRLINES TV MAGAZINE</h1>
-      <p></p>
     </header>
   );
 }
