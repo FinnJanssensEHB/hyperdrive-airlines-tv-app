@@ -6,11 +6,18 @@
   margin-top: 1em;
   max-width: 50%;
   display: flex;
-  border: 5px solid $yellow;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 5px solid $magenta;
   align-self: center;
   box-shadow: 4px 4px 0px 0px $white;
 }
 
 .c-list-item > canvas {
   box-shadow: 8px 8px 0px 0px $white;
+  width: auto;
+}
+
+.text-container {
+  max-width: 50%;
 }
