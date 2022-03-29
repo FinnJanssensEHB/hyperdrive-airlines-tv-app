@@ -7,10 +7,10 @@ function ListItem(props: any) {
   useEffect(() => {
     var img = new Image();
     img.onload = function () {
-      eightBit(document.getElementById(props.item.id + "canvas"), img, 10);
+      eightBit(document.getElementById(props.item.id + "canvas"), img, 16);
     };
     img.src = props.item.show.image.medium;
-  });
+  }, []);
 
   return (
     <div className="c-list-item">
