@@ -1,5 +1,6 @@
 import React from "react";
 import ShowList from "./ShowList";
+import Header from "./Header";
 
 import "./App.css";
 
@@ -38,6 +39,7 @@ class App extends React.Component<any, State> {
 
     return (
       <>
+        <Header></Header>
         <ShowList items={items}></ShowList>
       </>
     );

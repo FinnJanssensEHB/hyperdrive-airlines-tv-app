@@ -1,0 +1,9 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+header > h3 {
+  color: white;
+}
