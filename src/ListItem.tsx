@@ -1,8 +1,17 @@
 import React, { useEffect, useState } from "react";
+import * as eightBit from "8bit";
+
 import "./scss/ListItem.scss";
-import { tvmazeService } from "./services/tvmaze.service";
 
 function ListItem(props: any) {
+  useEffect(() => {
+    var img = new Image();
+    img.onload = function () {
+      eightBit(document.getElementById(props.item.id + "canvas"), img, 10);
+    };
+    img.src = props.item.show.image.medium;
+  });
+
   return (
     <div className="c-list-item">
       <div>
@@ -17,7 +26,8 @@ function ListItem(props: any) {
         </p>
         <b> {props.item.show.type}</b>
       </div>
-      <img id={props.item.id} src={props.item.show.image.medium} alt="" />
+      <canvas id={props.item.id + "canvas"}></canvas>
+      {/* <img id={props.item.id} src={props.item.show.image.medium} alt="" /> */}
     </div>
   );
 }
