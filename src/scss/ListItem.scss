@@ -1,6 +1,16 @@
+@import "./var.scss";
+
 .c-list-item {
-  padding: 1em;
-  margin: 1em;
+  padding: 1em 2em;
+  margin: auto;
+  margin-top: 1em;
   max-width: 50%;
   display: flex;
+  border: 5px solid $yellow;
+  align-self: center;
+  box-shadow: 4px 4px 0px 0px $white;
+}
+
+.c-list-item > canvas {
+  box-shadow: 8px 8px 0px 0px $white;
 }

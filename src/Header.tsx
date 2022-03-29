@@ -14,9 +14,13 @@ function Header() {
 
   return (
     <header>
-      <h2>AIRLINES TV MAGAZINE</h2>
-      <h3>{date}</h3>
-      <h3>{time}</h3>
+      <div className="info-container">
+        <h3>belgium</h3>
+        <h3>{date}</h3>
+        <h3>{time}</h3>
+      </div>
+      <h1>AIRLINES TV MAGAZINE</h1>
+      <p></p>
     </header>
   );
 }

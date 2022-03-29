@@ -1,16 +1,29 @@
+@import "./var.scss";
+
 header {
+  position: relative;
+}
+
+header > h1 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: $white;
+  text-shadow: 2px 2px 0px $black;
+  background-color: $blue;
+  border: 5px solid $yellow;
+}
+
+header > h3 {
+  color: $white;
+}
+
+.info-container {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: baseline;
-  background-color: #0001f2;
-  padding: 3em;
-}
-
-header > h2 {
-  color: #f2f100;
-}
-
-header > h3 {
-  color: white;
+  background-color: $blue;
+  border-bottom: 5px solid $yellow;
+  padding-bottom: 1.5em;
 }
