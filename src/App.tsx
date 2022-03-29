@@ -2,7 +2,7 @@ import React from "react";
 import ShowList from "./ShowList";
 import Header from "./Header";
 
-import "./App.css";
+import "./scss/App.scss";
 
 const BASE_URL = "https://api.tvmaze.com/schedule";
 
