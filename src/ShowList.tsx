@@ -5,7 +5,7 @@ import ListItem from "./ListItem";
 import { useLoading } from "./hooks/useLoading.hook";
 
 function ShowList() {
-  const [shows, setShows] = useState([]);
+  const [shows, setShows] = useState<any>(undefined);
   const isLoading = useLoading(shows);
 
   useEffect(() => {
@@ -15,7 +15,9 @@ function ShowList() {
   }, []);
   return (
     <>
-      {isLoading ? "Loading..." : shows.map((show) => <ListItem item={show} />)}
+      {isLoading
+        ? "Loading..."
+        : shows?.map((show: any) => <ListItem item={show} />)}
     </>
   );
 }
