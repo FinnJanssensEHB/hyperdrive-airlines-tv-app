@@ -1,8 +1,19 @@
-@import url("https://use.typekit.net/zjv1lzv.css");
+@font-face {
+  font-family: "European Teletext Nuevo";
+  src: url("./fonts/EuropeanTeletextNuevo.eot");
+  src: url("./fonts/EuropeanTeletextNuevo.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/EuropeanTeletextNuevo.woff2") format("woff2"),
+    url("./fonts/EuropeanTeletextNuevo.woff") format("woff"),
+    url("./fonts/EuropeanTeletextNuevo.svg#EuropeanTeletextNuevo") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
-  font-family: cartograph-cf, monospace;
-  font-weight: 400;
+  font-family: "European Teletext Nuevo", monospace;
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -10,4 +21,12 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+h1,
+h2,
+p,
+b {
+  color: white;
 }
