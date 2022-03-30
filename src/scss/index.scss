@@ -103,10 +103,11 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: black;
+  // background-color: black;
   // border-width: 20px 20px 20px 20px; /* t r b l */
   // padding: 20px;
   max-height: 100%;
+  cursor: url("../cursor.png"), auto;
 }
 
 h1,
