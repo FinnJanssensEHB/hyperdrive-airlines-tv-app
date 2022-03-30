@@ -5,6 +5,7 @@ export interface Show {
   summary: string;
   showName: string;
   showType: string;
+  showId: string;
 }
 
 export interface ShowState {

@@ -19,9 +19,12 @@ function Overview() {
   return (
     <>
       <div className="overview-container">
-        <h1 className="overview-title">TV-shows on today:</h1>
+        <div className="overview-title-search-container">
+          <h1 className="overview-title">TV-shows on today:</h1>
+          <input className="search-input" type="text" placeholder="Search" />
+        </div>
         {shows.map((show) => {
-          return <OverviewItem show={show}></OverviewItem>;
+          return <OverviewItem show={show} key={show.id}></OverviewItem>;
         })}
       </div>
     </>

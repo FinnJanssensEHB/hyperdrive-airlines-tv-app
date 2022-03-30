@@ -1,9 +1,15 @@
 @import "./var.scss";
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
 html,
 body,
 div,
 span,
+applet,
+object,
 iframe,
 h1,
 h2,
@@ -72,16 +78,55 @@ hgroup,
 menu,
 nav,
 output,
+ruby,
 section,
 summary,
 time,
+mark,
 audio,
 video {
-  padding: 0;
   margin: 0;
+  padding: 0;
   border: 0;
-  font-smooth: never;
-  -webkit-font-smoothing: none;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 @font-face {
@@ -99,6 +144,10 @@ video {
   line-height: 20px;
 }
 
+html {
+  cursor: url("../cursor.png"), auto;
+}
+
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -107,7 +156,6 @@ body {
   // border-width: 20px 20px 20px 20px; /* t r b l */
   // padding: 20px;
   max-height: 100%;
-  cursor: url("../cursor.png"), auto;
 }
 
 h1,

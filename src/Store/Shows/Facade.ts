@@ -24,6 +24,7 @@ export const fetchShows = () => {
             summary: result.summary,
             showName: result.show.name,
             showType: result.show.type,
+            showId: result.show.id,
           };
         });
 

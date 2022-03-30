@@ -5,7 +5,6 @@ import Overview from "../modules/Overview/Overview";
 export default function Home() {
   return (
     <>
-      <Header></Header>
       <Overview></Overview>
     </>
   );
