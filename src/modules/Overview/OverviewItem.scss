@@ -13,6 +13,7 @@
 .overview-item:hover {
   border: 4px solid $white;
   box-shadow: 4px 4px 0px $magenta;
+  transform: scale(110%, 110%);
 }
 
 .item-showName {

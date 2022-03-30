@@ -1,19 +1,27 @@
 import React, { useEffect, useState } from "react";
 
-import { tvmazeService } from "../../services/tvmaze.service";
-import Detail from "./Detail";
-import { useLoading } from "../../hooks/useLoading.hook";
+import { tvmazeService } from "../services/tvmaze.service";
+import Detail from "../modules/Detail/Detail";
+import { useLoading } from "../hooks/useLoading.hook";
 
-import "./DetailWrapper.scss";
+import "../modules/Detail/DetailWrapper.scss";
+import { useParams } from "react-router-dom";
+import { Show } from "../Store/Shows/InitialState";
 
 function DetailWrapper() {
   const [shows, setShows] = useState<any>(undefined);
   const [showIndex, setShowIndex] = useState(0);
   const isLoading = useLoading(shows);
 
+  const params = useParams();
+
   useEffect(() => {
     tvmazeService.getShows().then((response) => {
       setShows(response);
+      const index = shows.findIndex((object: Show) => {
+        return object.id === params.id;
+      });
+      setShowIndex(index);
     });
   }, []);
   return (

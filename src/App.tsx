@@ -1,15 +1,20 @@
 import React from "react";
-import DetailWrapper from "./modules/Detail/DetailWrapper";
-import Header from "./Header";
-import Overview from "./modules/Overview/Overview";
+import { Routes, Route, Outlet } from "react-router-dom";
 
 import "./scss/App.scss";
+import Home from "./Pages/Home.page";
+import Detail from "./Pages/Detail.page";
 
 function App() {
   return (
     <>
-      <Header></Header>
-      <Overview></Overview>
+      <Routes>
+        <Route path="show">
+          <Route path=":id" element={<Detail />} />
+        </Route>
+        <Route path="/" element={<Home />} />
+      </Routes>
+      ;
     </>
   );
 }
