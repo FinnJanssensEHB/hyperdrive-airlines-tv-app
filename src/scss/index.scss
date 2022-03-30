@@ -103,7 +103,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  // background-color: black;
+  background-color: black;
   // border-width: 20px 20px 20px 20px; /* t r b l */
   // padding: 20px;
   max-height: 100%;
@@ -121,7 +121,24 @@ b {
 
 .show-type {
   background-color: $blue;
-  width: fit-content;
-  padding: 0.2em !important;
-  margin-top: 1em;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: $white;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: $magenta;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: $yellow;
 }

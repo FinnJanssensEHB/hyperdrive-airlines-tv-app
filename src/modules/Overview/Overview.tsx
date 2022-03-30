@@ -4,6 +4,8 @@ import { fetchShows } from "../../Store/Shows/Facade";
 import { Show, ShowState } from "../../Store/Shows/InitialState";
 import { selectShows, selectShowsError } from "../../Store/Shows/Selectors";
 import { StoreState } from "../../Store/store.types";
+import OverviewItem from "./OverviewItem";
+import "./Overview.scss";
 
 function Overview() {
   const shows = useSelector<StoreState, Show[]>(selectShows);
@@ -16,11 +18,12 @@ function Overview() {
   console.log(shows);
   return (
     <>
-      <ul>
+      <div className="overview-container">
+        <h1 className="overview-title">TV-shows on today:</h1>
         {shows.map((show) => {
-          return <li>{show.name}</li>;
+          return <OverviewItem show={show}></OverviewItem>;
         })}
-      </ul>
+      </div>
     </>
   );
 }
