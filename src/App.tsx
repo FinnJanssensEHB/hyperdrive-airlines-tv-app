@@ -1,5 +1,5 @@
 import React from "react";
-import DetailWrapper from "./DetailWrapper";
+import DetailWrapper from "./modules/Detail/DetailWrapper";
 import Header from "./Header";
 
 import "./scss/App.scss";

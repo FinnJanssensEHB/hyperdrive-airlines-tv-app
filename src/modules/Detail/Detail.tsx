@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from "react";
 import * as eightBit from "8bit";
 
-import "./scss/ListItem.scss";
+import "./Detail.scss";
 
 function Detail(props: any) {
   useEffect(() => {
     var img = new Image();
     img.onload = function () {
-      eightBit(document.getElementById(props.item.id + "canvas"), img, 8);
+      eightBit(document.getElementById(props.item.id + "canvas"), img, 20);
     };
     img.src = props.item.show.image.medium;
   }, [props.item]);

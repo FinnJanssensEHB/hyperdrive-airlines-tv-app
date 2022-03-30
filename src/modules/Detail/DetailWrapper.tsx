@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
 
-import { tvmazeService } from "./services/tvmaze.service";
+import { tvmazeService } from "../../services/tvmaze.service";
 import Detail from "./Detail";
-import { useLoading } from "./hooks/useLoading.hook";
+import { useLoading } from "../../hooks/useLoading.hook";
 
-import "./scss/ShowList.scss";
+import "./DetailWrapper.scss";
 
 function DetailWrapper() {
   const [shows, setShows] = useState<any>(undefined);
@@ -27,7 +27,7 @@ function DetailWrapper() {
         >
           [
         </h2>
-        <p>{showIndex}</p>
+        <p>{showIndex + 1}</p>
         <h2
           onClick={() =>
             showIndex < shows.length - 1
