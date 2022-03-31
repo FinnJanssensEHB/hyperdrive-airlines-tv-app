@@ -28,7 +28,6 @@
 
 .item-type {
   font-size: 0.8em;
-  background-color: $blue;
   width: fit-content;
   justify-self: center;
 }
@@ -37,4 +36,30 @@
   justify-self: end;
   color: $yellow;
   font-weight: 700;
+}
+
+.type-green {
+  color: $black;
+  background-color: $green;
+}
+.type-blue {
+  background-color: $blue;
+}
+.type-red {
+  background-color: $red;
+}
+.type-cyan {
+  color: $black;
+  background-color: $cyan;
+}
+.type-magenta {
+  background-color: $magenta;
+}
+.type-white {
+  color: $black;
+  background-color: $white;
+}
+.type-yellow {
+  color: $black;
+  background-color: $yellow;
 }
