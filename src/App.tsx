@@ -13,7 +13,7 @@ function App() {
 
   useEffect(() => {
     dispatch(fetchShows());
-  }, []);
+  }, [dispatch]);
   return (
     <>
       <Header></Header>

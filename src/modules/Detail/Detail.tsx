@@ -9,12 +9,18 @@ function Detail(props: any) {
   const showDetail = props.showDetail;
 
   useEffect(() => {
-    var img = new Image();
-    img.onload = function () {
-      eightBit(document.getElementById(show.id + "canvas"), img, 20);
-    };
-    img.src = show.image;
+    if (show) {
+      var img = new Image();
+      img.onload = function () {
+        eightBit(document.getElementById(show.id + "canvas"), img, 20);
+      };
+      img.src = show.image;
+    }
   }, [show]);
+
+  if (!show || !showDetail) {
+    return null;
+  }
 
   return (
     <div className="detail-container">

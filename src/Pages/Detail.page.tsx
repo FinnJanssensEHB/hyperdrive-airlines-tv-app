@@ -14,22 +14,26 @@ import { StoreState } from "../Store/store.types";
 
 function DetailWrapper() {
   const params = useParams();
+  const [loading, setLoading] = useState(false);
   const show = useSelector<StoreState>((state) =>
     selectSpecificShow(state, parseInt(params.id || "0"))
   );
-
-  const [showDetail, setShowDetail] = useState({ id: 0 });
+  const [showDetail, setShowDetail] = useState();
 
   useEffect(() => {
+    setLoading(true);
+
     tvmazeService
       .getShowDetails(params.id?.toString() || "")
       .then((response) => {
         setShowDetail(response[0]);
+      }).finally(() => {
+        setLoading(false);
       });
-  }, []);
+  }, [params.id]);
   return (
     <>
-      <Detail showDetail={showDetail} show={show}></Detail>
+      {loading ? <p>Loading...</p> : <Detail showDetail={showDetail} show={show}></Detail>}
     </>
   );
 }
