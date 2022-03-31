@@ -18,9 +18,6 @@ function DetailWrapper() {
   const show = useSelector<StoreState>((state) =>
     selectSpecificShow(state, parseInt(params.id || "0"))
   );
-
-  console.log("show", show);
-
   const [showDetail, setShowDetail] = useState();
 
   useEffect(() => {
@@ -29,7 +26,6 @@ function DetailWrapper() {
     tvmazeService
       .getShowDetails(params.id?.toString() || "")
       .then((response) => {
-        console.log(response[0]);
         setShowDetail(response[0]);
       }).finally(() => {
         setLoading(false);

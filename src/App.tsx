@@ -12,7 +12,6 @@ function App() {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    console.log("effect");
     dispatch(fetchShows());
   }, [dispatch]);
   return (
