@@ -1,11 +1,12 @@
 export interface Show {
-  id: string;
+  id: number;
   name: string;
   airtime: string;
   summary: string;
   showName: string;
   showType: string;
-  showId: string;
+  showId: number;
+  image: string;
 }
 
 export interface ShowState {

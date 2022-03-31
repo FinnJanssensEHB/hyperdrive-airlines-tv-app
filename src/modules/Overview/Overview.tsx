@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
-import { useDispatch, useSelector } from "react-redux";
-import { fetchShows } from "../../Store/Shows/Facade";
+import React from "react";
+import { useSelector } from "react-redux";
 import { Show, ShowState } from "../../Store/Shows/InitialState";
 import { selectShows, selectShowsError } from "../../Store/Shows/Selectors";
 import { StoreState } from "../../Store/store.types";
@@ -10,12 +9,6 @@ import "./Overview.scss";
 function Overview() {
   const shows = useSelector<StoreState, Show[]>(selectShows);
   const error = useSelector<StoreState, string>(selectShowsError);
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    dispatch(fetchShows());
-  }, []);
-  console.log(shows);
   return (
     <>
       <div className="overview-container">

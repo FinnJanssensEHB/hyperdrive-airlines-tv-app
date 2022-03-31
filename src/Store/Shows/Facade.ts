@@ -4,7 +4,7 @@ import * as ACTIONS from "./Actions";
 
 export const fetchShows = () => {
   return (dispatch: Dispatch): void => {
-    dispatch(ACTIONS.fetchShows());
+    dispatch(ACTIONS.fetchShowsAction());
 
     fetch("https://api.tvmaze.com/schedule")
       .then(async (response) => {
@@ -25,13 +25,14 @@ export const fetchShows = () => {
             showName: result.show.name,
             showType: result.show.type,
             showId: result.show.id,
+            image: result.show.image?.medium || "",
           };
         });
 
-        dispatch(ACTIONS.fetchShowsSucces(results));
+        dispatch(ACTIONS.fetchShowsSuccesAction(results));
       })
       .catch((error: any) => {
-        dispatch(ACTIONS.fetchShowsError(error));
+        dispatch(ACTIONS.fetchShowsErrorAction(error));
       });
   };
 };

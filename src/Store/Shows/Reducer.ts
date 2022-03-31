@@ -3,7 +3,7 @@ import { ShowState, initialState } from "./InitialState";
 import * as ACTIONS from "./Actions";
 
 export const showReducer = createReducer<ShowState>(initialState, (builder) => {
-  builder.addCase(ACTIONS.fetchShows, (state): ShowState => {
+  builder.addCase(ACTIONS.fetchShowsAction, (state): ShowState => {
     return {
       ...state,
       loading: true,
@@ -12,16 +12,19 @@ export const showReducer = createReducer<ShowState>(initialState, (builder) => {
     };
   });
 
-  builder.addCase(ACTIONS.fetchShowsSucces, (state, action): ShowState => {
-    return {
-      ...state,
-      loading: false,
-      error: "",
-      list: action.payload,
-    };
-  });
+  builder.addCase(
+    ACTIONS.fetchShowsSuccesAction,
+    (state, action): ShowState => {
+      return {
+        ...state,
+        loading: false,
+        error: "",
+        list: action.payload,
+      };
+    }
+  );
 
-  builder.addCase(ACTIONS.fetchShowsError, (state, action): ShowState => {
+  builder.addCase(ACTIONS.fetchShowsErrorAction, (state, action): ShowState => {
     return {
       ...state,
       loading: false,

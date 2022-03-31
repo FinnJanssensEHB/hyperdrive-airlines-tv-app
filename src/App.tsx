@@ -1,12 +1,20 @@
-import React from "react";
-import { Routes, Route, Outlet } from "react-router-dom";
+import React, { useEffect } from "react";
+import { Routes, Route } from "react-router-dom";
 
 import "./scss/App.scss";
 import Home from "./Pages/Home.page";
 import Detail from "./Pages/Detail.page";
 import Header from "./Header";
+import { useDispatch } from "react-redux";
+import { fetchShows } from "./Store/Shows/Facade";
 
 function App() {
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    console.log("effect");
+    dispatch(fetchShows());
+  }, []);
   return (
     <>
       <Header></Header>
@@ -16,7 +24,6 @@ function App() {
         </Route>
         <Route path="/" element={<Home />} />
       </Routes>
-      ;
     </>
   );
 }

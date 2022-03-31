@@ -1,38 +1,55 @@
 @import "../../scss/var.scss";
 
-.c-list-item {
+.detail-container {
   padding: 1em 2em;
   margin: auto;
   margin-top: 1em;
   max-width: 50%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   border: 5px solid $magenta;
   align-self: center;
   box-shadow: 4px 4px 0px 0px $white;
+  position: relative;
 }
 
-.c-list-item > canvas {
+.detail-container > canvas {
   box-shadow: 8px 8px 0px 0px $white;
   width: auto;
 }
 
-.text-container {
-  margin-right: 1em;
-  position: relative;
-}
-
-.c-list-item h2,
-.c-list-item h3,
-.c-list-item p {
-  padding: 0.4em 0;
-}
-
-.c-list-item h2 {
-  position: absolute;
-  top: -30px;
-  left: -20px;
+.detail-container > header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
   background-color: $black;
-  padding: 0 20px;
+  align-items: baseline;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid $magenta;
+  margin-bottom: 2em;
+}
+
+.show-name {
+  font-size: 2vw;
+  font-weight: 700;
+  color: $white;
+  text-shadow: 2px 2px 0px $magenta;
+}
+
+.episode-name {
+  font-size: 1.5vw;
+}
+
+.detail-content-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.show-summary {
+  font-size: 1em;
+  max-width: 50%;
+  color: $white;
 }
