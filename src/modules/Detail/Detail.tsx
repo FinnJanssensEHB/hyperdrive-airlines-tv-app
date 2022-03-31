@@ -7,7 +7,6 @@ import { Show } from "../../Store/Shows/InitialState";
 function Detail(props: any) {
   const show: Show = props.show;
   const showDetail = props.showDetail;
-  console.log(showDetail);
 
   useEffect(() => {
     var img = new Image();

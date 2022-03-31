@@ -18,15 +18,12 @@ function DetailWrapper() {
     selectSpecificShow(state, parseInt(params.id || "0"))
   );
 
-  console.log("show", show);
-
   const [showDetail, setShowDetail] = useState({ id: 0 });
 
   useEffect(() => {
     tvmazeService
       .getShowDetails(params.id?.toString() || "")
       .then((response) => {
-        console.log(response[0]);
         setShowDetail(response[0]);
       });
   }, []);
