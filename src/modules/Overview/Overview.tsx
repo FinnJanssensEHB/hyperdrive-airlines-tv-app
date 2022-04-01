@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import { Show, ShowState } from "../../Store/Shows/InitialState";
+import { Show } from "../../Store/Shows/InitialState";
 import { selectShows, selectShowsError } from "../../Store/Shows/Selectors";
 import { StoreState } from "../../Store/store.types";
 import OverviewItem from "./OverviewItem";

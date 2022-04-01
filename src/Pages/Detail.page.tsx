@@ -1,15 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import { useSelector } from "react-redux";
 
 import { tvmazeService } from "../services/tvmaze.service";
 import Detail from "../modules/Detail/Detail";
-import { useSelector, useDispatch } from "react-redux";
-import { Show, ShowDetail } from "../Store/Shows/InitialState";
-import {
-  selectShows,
-  selectShowsError,
-  selectSpecificShow,
-} from "../Store/Shows/Selectors";
+import { selectSpecificShow } from "../Store/Shows/Selectors";
 import { StoreState } from "../Store/store.types";
 
 function DetailWrapper() {

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import * as eightBit from "8bit";
 
 import "./Detail.scss";
