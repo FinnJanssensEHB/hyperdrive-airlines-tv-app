@@ -29,7 +29,7 @@ function Detail(props: any) {
   }
 
   return (
-    <div className="detail-container">
+    <div className="detail-container" data-testid={props.testid}>
       <header>
         <h2 className="show-name">{show.showName}</h2>
         <h3 className="episode-name">{show.name}</h3>
