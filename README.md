@@ -1,46 +1,108 @@
-# Getting Started with Create React App
+---
+marp: true
+footer: "Duaal leren - stuidio hyperdrive"
+style: |
+  section {
+    background-color: #000;
+  }
+  h1, h2, h3, footer {
+    color: #fff;
+    font-family: Tahoma;
+  }
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Duaal Leren
 
-## Available Scripts
+## Studio Hyperdrive
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Inspiration
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![](https://miro.medium.com/max/1200/1*WSph9kUyJtT2L_onAyGAXA.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## Front page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](./README-media/Home.png)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Fuzzy search
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![](./README-media/FuzzySearch.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Show Type Filters
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![](./README-media/Filter.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Proud Code
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Location, Date & Time in Header
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![50%](./README-media/Header-1.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+![50%](./README-media/Header-2.png)
+
+---
+
+![bg 80%](./README-media/Header-3.png)
+
+---
+
+![](./README-media/Header-4.png)
+
+---
+
+## Proud Code
+
+### Fuzzy Search and Filters
+
+---
+
+### `Selectors.ts`
+
+![](./README-media/Selectors-1.png)
+
+---
+
+![](./README-media/Selectors-2.png)
+
+---
+
+### `Overview.tsx`
+
+![](./README-media/Overview-1.png)
+
+---
+
+![](./README-media/Overview-2.png)
+
+---
+
+## Proud Code
+
+### API Call
+
+---
+
+### `services/tvmaze.service.tsx`
+
+![](./README-media/Service.png)
+
+---
+
+## Demo
+
+---
+
+## Thank you for your attention!
