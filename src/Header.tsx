@@ -20,6 +20,14 @@ function Header() {
     setcountry(data.country_name || "Country not available");
   }
 
+  function getCurrentTime() {
+    let today = new Date();
+    let hours = (today.getHours() < 10 ? "0" : "") + today.getHours();
+    let minutes = (today.getMinutes() < 10 ? "0" : "") + today.getMinutes();
+    let seconds = (today.getSeconds() < 10 ? "0" : "") + today.getSeconds();
+    return hours + ":" + minutes + ":" + seconds;
+  }
+
   return (
     <header>
       <div className="info-container">
@@ -30,14 +38,6 @@ function Header() {
       <h1>AIRLINES TV MAGAZINE</h1>
     </header>
   );
-}
-
-function getCurrentTime() {
-  let today = new Date();
-  let hours = (today.getHours() < 10 ? "0" : "") + today.getHours();
-  let minutes = (today.getMinutes() < 10 ? "0" : "") + today.getMinutes();
-  let seconds = (today.getSeconds() < 10 ? "0" : "") + today.getSeconds();
-  return hours + ":" + minutes + ":" + seconds;
 }
 
 export default Header;
