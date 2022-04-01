@@ -17,7 +17,7 @@ function Header() {
   async function getGeoInfo() {
     const response = await fetch("https://ipapi.co/json/");
     const data = await response.json();
-    setcountry(data.country_name || "dadad");
+    setcountry(data.country_name || "Country not available");
   }
 
   return (
