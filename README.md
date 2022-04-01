@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: "Duaal leren - stuidio hyperdrive"
+footer: "Duaal Leren - Studio Hyperdrive"
 style: |
   section {
     background-color: #000;
