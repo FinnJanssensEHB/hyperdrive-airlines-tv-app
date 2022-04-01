@@ -3,19 +3,27 @@ import "./scss/Header.scss";
 
 function Header() {
   const [time, setTime] = useState<string>("00:00:00");
+  const [country, setcountry] = useState<string>("");
 
   let date = new Date().toDateString();
 
   useEffect(() => {
+    getGeoInfo();
     setInterval(() => {
       setTime(getCurrentTime());
     }, 1000);
   }, []);
 
+  async function getGeoInfo() {
+    const response = await fetch("https://ipapi.co/json/");
+    const data = await response.json();
+    setcountry(data.country_name || "dadad");
+  }
+
   return (
     <header>
       <div className="info-container">
-        <h3>belgium</h3>
+        <h3>{country}</h3>
         <h3>{date}</h3>
         <h3>{time}</h3>
       </div>
