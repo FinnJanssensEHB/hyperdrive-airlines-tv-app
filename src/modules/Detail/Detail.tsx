@@ -2,11 +2,11 @@ import React, { useEffect, useState } from "react";
 import * as eightBit from "8bit";
 
 import "./Detail.scss";
-import { Show } from "../../Store/Shows/InitialState";
+import { Show, ShowDetail } from "../../Store/Shows/InitialState";
 
 function Detail(props: any) {
   const show: Show = props.show;
-  const showDetail = props.showDetail;
+  const showDetail: ShowDetail = props.showDetail;
 
   useEffect(() => {
     if (show) {
@@ -14,7 +14,13 @@ function Detail(props: any) {
       img.onload = function () {
         eightBit(document.getElementById(show.id + "canvas"), img, 20);
       };
-      img.src = show.image;
+      if (show.image == "") {
+        img.src =
+          "https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101027/112815900-geen-afbeelding-beschikbaar-icoon-platte-vector.jpg?ver=6";
+      } else {
+        img.src = show.image;
+      }
+      console.log(img.src);
     }
   }, [show]);
 
@@ -37,9 +43,9 @@ function Detail(props: any) {
         />
         <div>
           <h3>Airtime: {show.airtime || "--"}</h3>
-          <h3>Rating: {showDetail.rating?.average || "--"}</h3>
+          <h3>Rating: {showDetail.rating || "--"}</h3>
           <p>
-            S{showDetail.season} E{showDetail.number}
+            S{showDetail.season} E{showDetail.episode}
           </p>
         </div>
         <canvas id={show.id + "canvas"}></canvas>

@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import { tvmazeService } from "../services/tvmaze.service";
 import Detail from "../modules/Detail/Detail";
 import { useSelector, useDispatch } from "react-redux";
-import { Show } from "../Store/Shows/InitialState";
+import { Show, ShowDetail } from "../Store/Shows/InitialState";
 import {
   selectShows,
   selectShowsError,
@@ -25,15 +25,21 @@ function DetailWrapper() {
 
     tvmazeService
       .getShowDetails(params.id?.toString() || "")
-      .then((response) => {
-        setShowDetail(response[0]);
-      }).finally(() => {
+      .then((response: any) => {
+        console.log("Now in detail.page", response);
+        setShowDetail(response);
+      })
+      .finally(() => {
         setLoading(false);
       });
   }, [params.id]);
   return (
     <>
-      {loading ? <p>Loading...</p> : <Detail showDetail={showDetail} show={show}></Detail>}
+      {loading ? (
+        <p>Loading...</p>
+      ) : (
+        <Detail showDetail={showDetail} show={show}></Detail>
+      )}
     </>
   );
 }

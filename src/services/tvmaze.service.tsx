@@ -1,4 +1,5 @@
 import React from "react";
+import { ShowDetail } from "../Store/Shows/InitialState";
 
 class TvmazeService {
   private readonly BASE_URL = "https://api.tvmaze.com";
@@ -23,13 +24,31 @@ class TvmazeService {
   }
 
   public async getShowDetails(id: string) {
-    const response = await fetch(
+    return fetch(
       `${
         this.BASE_URL
       }/shows/${id}/episodesbydate?date=${this.getFormattedDate()}`
-    );
+    )
+      .then(async (response) => {
+        if (response.ok) {
+          return response.json();
+        }
 
-    return response.json();
+        const { detail } = await response.json();
+        return Promise.reject(detail);
+      })
+      .then((response: any) => {
+        console.log(response);
+        const result = {
+          rating: response[0].rating?.average,
+          season: response[0].season,
+          episode: response[0].number,
+        };
+        console.log(result);
+
+        return result;
+      })
+      .catch((error: any) => {});
   }
 }
 

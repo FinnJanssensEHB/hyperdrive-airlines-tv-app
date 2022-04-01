@@ -9,6 +9,12 @@ export interface Show {
   image: string;
 }
 
+export interface ShowDetail {
+  rating: number;
+  season: number;
+  episode: number;
+}
+
 export interface ShowState {
   loading: boolean;
   error: string;
